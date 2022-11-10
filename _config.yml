@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Keivan Faghih Niresi"
+  name             : "Reza Rahpeima"
   avatar           : "profile.png"
-  bio              : "Research Assistant at WCSP Lab, College of Electrical Engineering and Computer Science, National Tsing Hua University, Hsinchu, Taiwan"
-  location         : "Hsinchu, Taiwan"
+  bio              : "Research Assistant at Ultrasonic Imaging lab, Institute of Biomedical Electronics and Bioinformatics, College of Electrical Engineering and Computer Science, National Taiwan University, Taipei, Taiwan"
+  location         : "Taipei, Taiwan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.tw/citations?hl=en&user=3qQfrzwAAAAJ"
-  email            : "keyvan.faghih@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=b3QpzHoAAAAJ&hl=en"
+  email            : "Rahpeima.reza@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "keiv4n"
+  github           : "Rahpeima"
   google_plus      :
   keybase          :
   instagram        : #""
