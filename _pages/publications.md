@@ -15,7 +15,7 @@ author_profile: true
 </ul> <br>
 
  <p align="center">
-  <img width="650" height="288" src="https://user-images.githubusercontent.com/107177894/177000820-a4c0ccea-9dc6-4c0c-9291-4b6a46c9d587.png">
+  <img width="650" height="288" src="https://github.com/Rahpeima/Rahpeima.github.io/blob/Rahpeima/images/Fig1.tif">
 </p>
 
 <style>
@@ -45,5 +45,5 @@ function myFunction() {
 
 
  
-<p><i class="fa fa-file" style="color:blue"></i> <a href="https://ieeexplore.ieee.org/document/9813381" style="color: blue; text-decoration:none;" target="\_blank">IEEE Xplore</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9813381" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <i class="fab fa-github" style="color:green"></i> <a href="https://github.com/Keiv4n/HLF-DIP" style="color: green; text-decoration:none;" target="\_blank">Code</a> | <i class="fas fa-globe" style="color:brown"></i> <a href="https://openremotesensing.net/knowledgebase/unsupervised-hyperspectral-denoising-based-on-deep-image-prior-and-least-favorable-distribution/" style="color:brown; text-decoration:none;" target="\_blank">Open Remote Sensing</a></p>
+<p><i class="fa fa-file" style="color:blue"></i> <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274801" style="color: blue; text-decoration:none;" target="\_blank">Plos One</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9813381" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <i class="fab fa-github" style="color:green"></i> <a href="https://github.com/Keiv4n/HLF-DIP" style="color: green; text-decoration:none;" target="\_blank">Code</a> | <i class="fas fa-globe" style="color:brown"></i> <a href="https://openremotesensing.net/knowledgebase/unsupervised-hyperspectral-denoising-based-on-deep-image-prior-and-least-favorable-distribution/" style="color:brown; text-decoration:none;" target="\_blank">Open Remote Sensing</a></p>
  
