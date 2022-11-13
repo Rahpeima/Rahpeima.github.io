@@ -15,7 +15,7 @@ author_profile: true
 </ul> <br>
 
  <p align="center">
-  <img width="650" height="288" src="https://github.com/Rahpeima/Rahpeima.github.io/blob/9fe3574e4de1af78199a9cfc86ad26d173899c4c/images/Fig1.tif">
+  <img width="650" height="288" src="https://github.com/Rahpeima/Rahpeima.github.io/blob/67a55282abaa755fcf4d1ae17fdb35d95f7bc7aa/images/Fig1.png">
 </p>
 
 <style>
