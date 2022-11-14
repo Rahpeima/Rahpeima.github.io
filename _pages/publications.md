@@ -43,7 +43,45 @@ function myFunction() {
 }
 </script>
 
-
+ 
  
 <p><i class="fa fa-file" style="color:blue"></i> <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274801" style="color: blue; text-decoration:none;" target="\_blank">Plos One</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/9996687/journal.pone.0274801.1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a>
  
+ 
+<ul>
+     <li><a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: #B509AC; text-decoration:none;" target="\_blank">A Numerical Approach for Optimization of the Working Fluid of a Standing-Wave Thermo-Acoustic Refrigerator </a>
+<br><strong>Reza Rahpeima</strong>, and Reza Ebrahimi,<br><em>Engineering with computers, 2022, doi: 10.1007/s00366-022-01646-1.</em></li>
+</ul> <br>
+
+ <p align="center">
+  <img width="671" height="585" src="https://user-images.githubusercontent.com/117890455/201510899-8b91c432-c60c-4569-9f97-f878e617ee70.png">
+</p>
+
+<style>
+#more {display: none;}
+</style>
+
+<p><b>Abstract:</b> The development of refrigeration systems using thermo-acoustic technology is a novel solution for achieving environmentally friendly refrigerators. A full transient CFD method is introduced here that can resemble<span id="dots">...</span><span id="more"> the whole thermo-acoustic phenomena along with its different governing physics as a whole. The working fluid contributes critically to the thermo-acoustic refrigerators’ cooling performance. In this paper, unlike previous researches, all different possible combinations of noble gases are considered and the performance of the refrigerator from both aspects of cooling temperature and COPR are investigated to determine the optimized gas mixture among all combinations. For this purpose, the effect of the sound intensity and the fluid’s Prandtl number as two key factors are investigated on the refrigeration performance. By considering a 2D-axisymmetric computational geometry resembling the real model, it is tried to attain results as reliable as possible. COMSOL software is used to perform the simulations. It is concluded that from the aspect of the cooling temperature, a sample with the highest sound intensity (pure He sample in this research) is the best. But, from the aspect of a higher COPR (relative coefficient of performance), a sample with the lowest Pr number (72%He–28%Xe sample in this research) would be the best. The lowest cooling temperature which is achieved by the pure He sample was about 273 K and the highest COPR which belongs to 72%He–28%Xe sample was approximately 0.335.</span></p>
+<button onclick="myFunction()" id="myBtn">Read more</button>
+
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
+ 
+ 
+<p><i class="fa fa-file" style="color:blue"></i> <a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: blue; text-decoration:none;" target="\_blank">Plos One</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://link.springer.com/content/pdf/10.1007/s00366-022-01646-1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a>
