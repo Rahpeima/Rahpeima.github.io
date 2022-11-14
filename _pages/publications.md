@@ -88,3 +88,16 @@ function myFunction2() {
 <h1 class="year">2020</h1>
 
 <ul style="list-style-type:circle;">
+ 
+<ul>
+     <li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274801" style="color: #B509AC; text-decoration:none;" target="\_blank">Numerical Study of Magnetic Hyperthermia Ablation of Breast Tumor on an Anatomically Realistic Breast Phantom </a>
+<br><strong>Reza Rahpeima</strong>, and Chao-An Lin,<br><em>Plos One, 2022, doi: 10.1371/journal.pone.0274801.</em></li>
+</ul> <br>
+
+<p align="center">
+  <img width="671" height="585" src="https://user-images.githubusercontent.com/117890455/201510899-8b91c432-c60c-4569-9f97-f878e617ee70.png">
+</p>
+
+<style>
+#more {display: none;}
+</style>
