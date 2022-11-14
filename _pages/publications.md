@@ -84,14 +84,14 @@ function myFunction2() {
 
 
 <p><i class="fa fa-file" style="color:blue"></i> <a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: blue; text-decoration:none;" target="\_blank">Springer</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/9998973/s00366-022-01646-1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a>
-
+---
 author_profile: true
 ---
-<h2 class="year">2020</h2>
+<h1 class="year">2020</h1>
 
-<u2 style="list-style-type:circle;">
+<u1 style="list-style-type:circle;">
  
-<u2>
+<u1>
      <li><a href="https://www.sciencedirect.com/science/article/pii/S0169260720314395" style="color: #B509AC; text-decoration:none;" target="\_blank">Numerical Study of Microwave Induced Thermoacoustic Imaging for Initial Detection of Cancer of Breast on Anatomically Realistic Breast Phantom </a>
 <br><strong>Reza Rahpeima</strong>, Madjid Soltani, and Farshad Moradi Kashkooli,<br><em>Plos One, 2022, doi: 10.1371/journal.pone.0274801.</em></li>
 </ul> <br>
