@@ -91,14 +91,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h1 class="year">2020</h1>
+<h2 class="year">2020</h2>
 
-<u1 style="list-style-type:circle;">
+<u2 style="list-style-type:circle;">
  
-<u1>
+<u2>
      <li><a href="https://www.sciencedirect.com/science/article/pii/S0169260720314395" style="color: #B509AC; text-decoration:none;" target="\_blank">Numerical Study of Microwave Induced Thermoacoustic Imaging for Initial Detection of Cancer of Breast on Anatomically Realistic Breast Phantom </a>
 <br><strong>Reza Rahpeima</strong>, Madjid Soltani, and Farshad Moradi Kashkooli,<br><em>Plos One, 2022, doi: 10.1371/journal.pone.0274801.</em></li>
-</ul> <br>
+</u2> <br>
 
 <p align="center">
   <img width="671" height="585" src="https://user-images.githubusercontent.com/117890455/201510899-8b91c432-c60c-4569-9f97-f878e617ee70.png">
