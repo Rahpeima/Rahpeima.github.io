@@ -7,9 +7,14 @@ author_profile: true
 <h1 class="year">2022</h1>
 
 <ul style="list-style-type:circle;">
-<button class="collapsible">MATLAB</button>
-<div class="content">
  
+ 
+<button class="collapsible">2022</button>
+<div class="content">
+<p>  <li style="font-family: Calibri, sans-serif; font-size: 15px;"><span style="color: rgb(33, 33, 33);">RLC Circuits simulation by a transfer function, state-space equation and differential equation <strong>(<em>Fall 2017)</em></strong></span></li></p>
+        
+        
+        
 <ul>
     <li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274801" style="color: #B509AC; text-decoration:none;" target="\_blank">Numerical Study of Magnetic Hyperthermia Ablation of Breast Tumor on an Anatomically Realistic Breast Phantom </a>
 <br><strong>Reza Rahpeima</strong>, and Chao-An Lin,<br><em>Plos One, 2022, doi: 10.1371/journal.pone.0274801.</em></li>
@@ -75,12 +80,12 @@ function myFunction2() {
 
   if (dots2.style.display === "none") {
     dots2.style.display = "inline";
-    btn2Text.innerHTML = "Read more"; 
-    more2Text.style.display = "none";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
   } else {
     dots2.style.display = "none";
-    btn2Text.innerHTML = "Read less"; 
-    more2Text.style.display = "inline";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
   }
 }
 </script>
