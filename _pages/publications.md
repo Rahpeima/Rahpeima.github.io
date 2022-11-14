@@ -54,7 +54,7 @@ function myFunction() {
 </ul> <br>
 
  <p align="center">
-  <img width="1104" height="1254" src="https://user-images.githubusercontent.com/117890455/201561208-bcdefc1d-6056-4429-9ae7-4b96c09368d0.png">
+  <img width="552" height="627" src="https://user-images.githubusercontent.com/117890455/201561208-bcdefc1d-6056-4429-9ae7-4b96c09368d0.png">
 </p>
 
 <style>
