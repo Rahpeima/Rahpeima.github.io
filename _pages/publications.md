@@ -6,14 +6,7 @@ author_profile: true
 ---
 <h1 class="year">2022</h1>
 
-<ul style="list-style-type:circle;">
- 
- 
-<button class="collapsible">2022</button>
-<div class="content">
-<p>  <li style="font-family: Calibri, sans-serif; font-size: 15px;"><span style="color: rgb(33, 33, 33);">RLC Circuits simulation by a transfer function, state-space equation and differential equation <strong>(<em>Fall 2017)</em></strong></span></li></p>
-        
-        
+<ul style="list-style-type:circle;">       
         
 <ul>
     <li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274801" style="color: #B509AC; text-decoration:none;" target="\_blank">Numerical Study of Magnetic Hyperthermia Ablation of Breast Tumor on an Anatomically Realistic Breast Phantom </a>
@@ -71,6 +64,9 @@ function myFunction() {
  <p><b>Abstract:</b> Magnetic fluid hyperthermia (MFH) is a novel reliable technique with excellent potential for thermal therapies and treating breast tumours. This method involves<span id="dots2">...</span><span id="more2"> injecting a magnetic nanofluid into the tumour and applying an external AC magnetic field to induce heat in the magnetic nanoparticles (MNPs) and raise the tumour temperature to ablation temperature ranges. Because of the complexity of considering and coupling all different physics involves in this phenomenon and also due to the intricacy of a thorough FEM numerical study, few FEM-based studies address the entire MFH process as similar to reality as possible. The current study investigates a FEM-based three-dimensional numerical simulation of MFH of breast tumours as a multi-physics problem. An anatomically realistic breast phantom (ARBP) is considered, some magnetic nanofluid is injected inside the tumour, and the diffusion phenomenon is simulated. Then, the amount of heat generated in the MNP-saturated tumour area due to an external AC magnetic field is simulated. In the end, the fraction of tumour tissue necrotized by this temperature rise is evaluated. The study’s results demonstrate that by injecting nanofluid and utilizing seven circular copper windings with each coil carrying 400 A current with a frequency of 400 kHz for generating the external AC magnetic field, the temperature in tumour tissue can be raised to a maximum of about 51.4°C, which leads to necrosis of entire tumour tissue after 30 minutes of electromagnetic field (EMF) exposure. This numerical platform can depict all four various physics involved in the MFH of breast tumours by numerically solving all different equation sets coupled together with high precision. Thus, the proposed model can be utilized by clinicians as a reliable tool for predicting and identifying the approximate amount of temperature rise and the necrotic fraction of breast tumour, which can be very useful to opt for the best MFH therapeutic procedure and conditions based on various patients. In future works, this numerical platform’s results should be compared with experimental in-vivo results to improve and modify this platform in order to be ready for clinical applications.</span></p>
 <button onclick="myFunction2()" id="myBtn2">Read more</button>
 
+    dots2.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
  
   <script>
 function myFunction2() {
