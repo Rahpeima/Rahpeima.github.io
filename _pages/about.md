@@ -28,10 +28,10 @@ My research interests and directions spread over: <br> <br>
 <div class="News">
 <h2>News</h2>
         <ul>
-          <li><b>June 2022:</b> My research paper, "Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution", is published in the <b>Plos One</b> journal. </li>
-          <li><b>May 2022:</b> I joined <a href="https://pranaq.com/" style="color: #B509AC; text-decoration:none;" target="\_blank">PranaQ</a> as a machine learning engineer intern! </li>
-          <li><b>September 2020:</b> I joined the <a href="https://nthu-en.site.nthu.edu.tw/" style="color: #B509AC; text-decoration:none;" target="\_blank">National Tsing Hua University (NTHU)</a> and <a href="https://www.ee.nthu.edu.tw/cychi/index.php" style="color: #B509AC; text-decoration:none;" target="\_blank">Wireless Communications &amp; Signal Processing (WCSP) Lab</a> as an M.Sc. student! </li>
-          <li><b>September 2019:</b> I graduated from the University of Guilan! </li>
+          <li><b>September 2022:</b> My research paper, "Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution", is published in the <b>Plos One</b> journal. </li>
+          <li><b>October 2022:</b> I joined <a href="https://www.shl-medical.com/" style="color: #B509AC; text-decoration:none;" target="\_blank">SHL Medical</a> as a simulation engineer intern. </li>
+          <li><b>September 2022:</b> I joined the <a href="https://www.ntu.edu.tw/english/index.html" style="color: #B509AC; text-decoration:none;" target="\_blank">National Taiwan University (NTU)</a> and <a href="https://sites.google.com/view/pai-chilislab/home" style="color: #B509AC; text-decoration:none;" target="\_blank">Ultrasonic Imaging Lebaretory</a> as an M.Sc. student. </li>
+          <li><b>July 2022:</b> I started my research as a research assistant in <a href="https://www.ntu.edu.tw/english/index.html" style="color: #B509AC; text-decoration:none;" target="\_blank">National Taiwan University (NTU)</a> and <a href="https://sites.google.com/view/pai-chilislab/home" style="color: #B509AC; text-decoration:none;" target="\_blank">Ultrasonic Imaging Lebaretory</a> </li>
           
 
 
