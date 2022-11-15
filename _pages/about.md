@@ -43,7 +43,7 @@ has been accepted by <b>IEEE Journal of Selected Topics in Applied Earth Observa
     
  
 <p align="center">
-  <img width="400" height="93" src="https://user-images.githubusercontent.com/107177894/173854088-79b62910-4180-4df9-b1b4-56420e6ff53e.png">
+  <img width="400" height="93" src="https://user-images.githubusercontent.com/117890455/201831736-54850b15-d422-40b1-b8d6-f9bdf082d493.jpg">
 </p>
 
   <p align="center">
