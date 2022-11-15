@@ -25,24 +25,6 @@ My research interests and directions spread over: <br> <br>
   <img width="512" height="512" src="https://user-images.githubusercontent.com/117890455/201818120-b701c173-0f0b-4273-b379-e802d9130ece.gif">
 </p>
  
-# <header class="post-header">
-# <h2 class="post-title">Featured Publications</h2>
-# </header>
-
-# <table style="width:100%">
- #  <tr>
- #    <th>
- #      <img src="https://user-images.githubusercontent.com/107177894/182388219-1e29d2ee-1e24-457b-8d6e-f472bc39e956.png" width="200"/>
-  #   </th>
-#     <th style="text-align:left">
-#              <span style="font-size:14px">Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution</span><br><br>
-  #           <span style="font-size:13px">Keivan Faghih Niresi<span style="font-weight:normal">, and Chong-Yung Chi</span></span><br><br>
-  #    <span style="font-weight:normal;font-size:13px">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022</span><br><br>
-#  <span style="font-weight:normal;font-size:14px"><i class="fa fa-file" style="color:blue"></i> <a href="https://ieeexplore.ieee.org/document/9813381" # style="color: blue; text-decoration:none;" target="\_blank">IEEE Xplore</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a # href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9813381" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <i class="fab fa-# github" style="color:green"></i> <a href="https://github.com/Keiv4n/HLF-DIP" style="color: green; text-decoration:none;" target="\_blank">Code</a> | <i class="fas # fa-globe" style="color:brown"></i> <a href="https://openremotesensing.net/knowledgebase/unsupervised-hyperspectral-denoising-based-on-deep-image-prior-and-least-# favorable-distribution/" style="color:brown; text-decoration:none;" target="\_blank">Open Remote Sensing</a></span>
-   #  </th>
-  # </tr>    
-# </table>
-
 <div class="News">
 <h2>News</h2>
         <ul>
