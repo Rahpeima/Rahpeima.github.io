@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=b3QpzHoAAAAJ&hl=en"
   email            : "Rahpeima.reza@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/R-Rahpeima"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        : #""
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "keivan-faghih"
-  orcid            : "http://orcid.org/0000-0003-0311-5877"
+  linkedin         : "reza-rahpeima"
+  orcid            : "http://orcid.org/0000-0001-9368-0153"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "KeivanFaghih"
+  twitter          : #"KeivanFaghih"
   vine             :
   weibo            :
   xing             :
