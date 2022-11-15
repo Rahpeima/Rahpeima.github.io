@@ -16,8 +16,10 @@ redirect_from:
 
 <p> Hello and thanks for stopping by! <br> <br>
 My name is Reza Rahpeima. I am currently an M.Sc. student in the Institute of Biomedical Electronics and Bioinformatics (BEBI) of the College of Electrical Engineering and Computer Science at the <a href="https://www.ntu.edu.tw/english/index.html" target="\_blank" style="color: #B509AC; text-decoration:none">  National Taiwan University (NTU)</a>. I am currently doing research in the Ultrasonic Imaging Lebaretory under the supervision of <a href="https://sites.google.com/view/pai-chilislab/home" target="\_blank" style="color: #B509AC; text-decoration:none">  Prof. Pai-Chi Li</a>. <br> <br>
-My research interests lie primarily in convex optimization, machine learning, signal processing and inverse problems, with applications in hyperspectral and medical imaging. <br> <br>
-I also enjoyed working as a machine learning engineer intern in <a href="https://pranaq.com/" target="\_blank" style="color: #B509AC; text-decoration:none">  PranaQ</a>. Before joining NTHU, I got my bachelor's degree in  Electrical Engineering from the University of Guilan after doing some work in signal processing and optical wireless communications. <br> <br>
+My research interests lie primarily in photoacoustic/thermoacoustic imaging, acoustics, CFD, and coding & numerical simulation of areas in various electromechanical systems. <br> <br>
+I recieved my bachelor's degree in mechanical engineering from <a href="https://basu.ac.ir/en/home" target="\_blank" style="color: #B509AC; text-decoration:none">  Bu-Ali Sina University</a> and my first master's degree in Aerospace engineering from <a href="https://en.kntu.ac.ir/" target="\_blank" style="color: #B509AC; text-decoration:none">  K. N. Toosi University of science and technology</a>. I am also enjoying working as a simulation engineer intern in <a href="https://www.shl-medical.com/" target="\_blank" style="color: #B509AC; text-decoration:none">  SHL Nedical</a>.
+  
+  I also enjoyed working as a machine learning engineer intern in <a href="https://pranaq.com/" target="\_blank" style="color: #B509AC; text-decoration:none">  PranaQ</a>. Before joining NTHU, I got my bachelor's degree in  Electrical Engineering from the University of Guilan after doing some work in signal processing and optical wireless communications. <br> <br>
 
 My research interests and directions spread over: <br> <br>
 
@@ -31,7 +33,7 @@ My research interests and directions spread over: <br> <br>
           <li><b>July 2022:</b> I started my research as a research assistant in <a href="https://www.ntu.edu.tw/english/index.html" style="color: #B509AC; text-decoration:none;" target="\_blank">National Taiwan University (NTU)</a> and <a href="https://sites.google.com/view/pai-chilislab/home" style="color: #B509AC; text-decoration:none;" target="\_blank">Ultrasonic Imaging Lebaretory</a> </li>
            <li><b>September 2022:</b> I joined the <a href="https://www.ntu.edu.tw/english/index.html" style="color: #B509AC; text-decoration:none;" target="\_blank">National Taiwan University (NTU)</a> and <a href="https://sites.google.com/view/pai-chilislab/home" style="color: #B509AC; text-decoration:none;" target="\_blank">Ultrasonic Imaging Lebaretory</a> as an M.Sc. student. </li>
           <li><b>September 2022:</b> My research paper, "Numerical study of magnetic hyperthermia ablation of breast tumor on an anatomically realistic breast phantom", is published in the <b>Plos One</b> journal. </li>
-          <li><b>October 2022:</b> I joined <a href="https://www.shl-medical.com/" style="color: #B509AC; text-decoration:none;" target="\_blank">SHL Medical</a> as a simulation engineer intern. </li>
+          <li><b>October 2022:</b> I started my work in <a href="https://www.shl-medical.com/" style="color: #B509AC; text-decoration:none;" target="\_blank">SHL Medical</a> as a "simulation engineer" intern. </li>
 
           
 <hr/>
