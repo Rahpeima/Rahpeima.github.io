@@ -28,8 +28,7 @@ My research interests and directions spread over: <br> <br>
 <div class="News">
 <h2>News</h2>
         <ul>
-          <li><b>June 2022:</b> My research paper, "Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution,"
-has been accepted by <b>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</b>. </li>
+          <li><b>June 2022:</b> My research paper, "Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution", is published in the <b>Plos One</b> journal. </li>
           <li><b>May 2022:</b> I joined <a href="https://pranaq.com/" style="color: #B509AC; text-decoration:none;" target="\_blank">PranaQ</a> as a machine learning engineer intern! </li>
           <li><b>September 2020:</b> I joined the <a href="https://nthu-en.site.nthu.edu.tw/" style="color: #B509AC; text-decoration:none;" target="\_blank">National Tsing Hua University (NTHU)</a> and <a href="https://www.ee.nthu.edu.tw/cychi/index.php" style="color: #B509AC; text-decoration:none;" target="\_blank">Wireless Communications &amp; Signal Processing (WCSP) Lab</a> as an M.Sc. student! </li>
           <li><b>September 2019:</b> I graduated from the University of Guilan! </li>
