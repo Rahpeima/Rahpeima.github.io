@@ -47,5 +47,5 @@ has been accepted by <b>IEEE Journal of Selected Topics in Applied Earth Observa
 </p>
 
   <p align="center">
-  <a href=https://info.flagcounter.com/6YZk"><img src="https://s01.flagcounter.com/count2/6YZk/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+  <a href="https://info.flagcounter.com/6YZk"><img src="https://s01.flagcounter.com/count2/6YZk/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
     </p>
