@@ -6,29 +6,23 @@ author_profile: true
 ---
 
 <ul>
-  <li><i class='fas fa-medal'></i> Selected as an Outstanding Speaker in the NTHU Foreign Student Association welcome conference, 2021</li>
+  <li><i class='fas fa-medal'></i> Received Taiwan gold card in the field of science & technology for 3 years residency in Taiwan (2021).</li>
 
 
-  <li><i class='fas fa-medal'></i> Awarded M.Sc. Full Scholarship (Merit-Based) from the National Tsing Hua University (two times), 2020 & 2021</li>
+  <li><i class='fas fa-medal'></i> Awarded a full scholarship by National Taiwan University for pursuing a Master’s degree (2022).</li>
     <ul>
-        <li> The highest award offered to NTHU international students </li>
+        <li> The highest award offered to NTU international students </li>
   </ul>
   
-  <li><i class='fas fa-medal'></i> Ranked 1st among all undergraduate students of Communications Branch, 2019</li>
+  <li><i class='fas fa-medal'></i> Recognized as an elite student and permitted to use exceptional talents quota to continue education to Ph.D. in Iran (2018).</li>
     <ul>
-        <li>  Department of Electrical Engineering, University of Guilan, 2019 </li>
-    </ul>
         
 
-  <li><i class='fas fa-medal'></i> Selected as Top 15% (GPA) students of all branches (Power, Electronics, Control, and Communications), Class of 2015-2019.  </li>
+  <li><i class='fas fa-medal'></i> Ranked 1st in cumulative GPA of master's degree, K. N. Toosi University of Technology. Propulsion department, class of 2015 (2018).  </li>
     <ul>
-        <li>  Department of Electrical Engineering, University of Guilan, 2019 </li>
-    </ul>
 
-  <li><i class='fas fa-medal'></i> Merit-Based Admission Offer for graduate studies without taking Iranian university entrance exam, 2019 </li>
+  <li><i class='fas fa-medal'></i> Received the title of the best national thesis in aerospace engineering from the Iranian society of aerospace (2019). </li>
     <ul>
-        <li> The award offered to the Top 15% (GPA) students who passed at least 105 (out of 140) credit courses after spending third academic year </li>
-    </ul>
   
    <li><i class='fas fa-medal'></i> Full Tuition-Waiving Fellowship for B.Sc. degree, 2015 </li>
     <ul>
