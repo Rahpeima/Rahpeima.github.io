@@ -22,7 +22,7 @@ I also enjoyed working as a machine learning engineer intern in <a href="https:/
 My research interests and directions spread over: <br> <br>
 
 <p align="center">
-  <img width="512" height="512" src="https://user-images.githubusercontent.com/117890455/201819684-8ca4c9bc-39f0-4934-ad07-4ff1d344d8fa.gif">
+  <img width="512" height="512" src="https://user-images.githubusercontent.com/117890455/201822025-45beb034-60fc-4328-97e9-2d41323d0580.gif">
 </p>
  
 <div class="News">
