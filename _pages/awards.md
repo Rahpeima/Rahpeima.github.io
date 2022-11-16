@@ -9,12 +9,12 @@ author_profile: true
   <li align="justify"><i class='fas fa-medal'></i><font size="-1"> Received Taiwan's gold card in the field of science & technology (2021). </font></li>
 
  <ul>
-        <li align="justify"> Permission of 3 years residency in Taiwan with several benefits. </li>
+        <li align="justify"> <font size="-2"> Permission of 3 years residency in Taiwan with several benefits. </font></li>
 </ul>
   
-  <li align="justify"><i class='fas fa-medal'></i> Awarded a full scholarship by National Taiwan University for pursuing a Master’s degree (2022).</li>
+  <li align="justify"><i class='fas fa-medal'></i><font size="-1"> Awarded a full scholarship by National Taiwan University for pursuing a Master’s degree (2022).</font></li>
 <ul>
-        <li align="justify"> The highest award offered to NTU international students. </li>
+        <li align="justify"><font size="-2"> The highest award offered to NTU international students. </font></li>
 </ul>
   
   <li align="justify"><i class='fas fa-medal'></i> Recognized as an elite student and permitted to use exceptional talents quota <br> to continue education to Ph.D. at KNTU without participating in the nationwide university entrance exam (2018).</li>
