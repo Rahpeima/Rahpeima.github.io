@@ -7,6 +7,60 @@ author_profile: true
 <h1 class="year">2022</h1>
 
 <ul style="list-style-type:circle;">       
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: ridge
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+  color: white;
+}
+
+.collapsible:after {
+  content: black;
+  color: white
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body>
+
+ 
+<button class="collapsible">read</button>
+<div class="content">
+  <p> <p align="center">
+  <img width="447" height="390" src="https://user-images.githubusercontent.com/117890455/201510899-8b91c432-c60c-4569-9f97-f878e617ee70.png">
+</p>
+        <b>Abstract:</b> Magnetic fluid hyperthermia (MFH) is a novel reliable technique with excellent potential for thermal therapies and treating breast tumours. This method involves injecting a magnetic nanofluid into the tumour and applying an external AC magnetic field to induce heat in the magnetic nanoparticles (MNPs) and raise the tumour temperature to ablation temperature ranges. Because of the complexity of considering and coupling all different physics involves in this phenomenon and also due to the intricacy of a thorough FEM numerical study, few FEM-based studies address the entire MFH process as similar to reality as possible. The current study investigates a FEM-based three-dimensional numerical simulation of MFH of breast tumours as a multi-physics problem. An anatomically realistic breast phantom (ARBP) is considered, some magnetic nanofluid is injected inside the tumour, and the diffusion phenomenon is simulated. Then, the amount of heat generated in the MNP-saturated tumour area due to an external AC magnetic field is simulated. In the end, the fraction of tumour tissue necrotized by this temperature rise is evaluated. The study’s results demonstrate that by injecting nanofluid and utilizing seven circular copper windings with each coil carrying 400 A current with a frequency of 400 kHz for generating the external AC magnetic field, the temperature in tumour tissue can be raised to a maximum of about 51.4°C, which leads to necrosis of entire tumour tissue after 30 minutes of electromagnetic field (EMF) exposure. This numerical platform can depict all four various physics involved in the MFH of breast tumours by numerically solving all different equation sets coupled together with high precision. Thus, the proposed model can be utilized by clinicians as a reliable tool for predicting and identifying the approximate amount of temperature rise and the necrotic fraction of breast tumour, which can be very useful to opt for the best MFH therapeutic procedure and conditions based on various patients. In future works, this numerical platform’s results should be compared with experimental in-vivo results to improve and modify this platform in order to be ready for clinical applications. </p>
+    
+</div>
         
 <ul>
     <li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274801" style="color: #B509AC; text-decoration:none;" target="\_blank">Numerical Study of Magnetic Hyperthermia Ablation of Breast Tumor on an Anatomically Realistic Breast Phantom </a>
@@ -48,25 +102,6 @@ function myFunction() {
 }
 </script>
 
-<script>
-        <h1 align="center">What is CSS?</h1>
-Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language.Although most often used to set the visual style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any XML document, including plain XML, SVG and XUL, and is applicable to rendering in speech, or on other media. Along with HTML and JavaScript, CSS is a cornerstone technology used by most websites to create visually engaging webpages, user interfaces for web applications, and user interfaces for many mobile applications.
-<div>
-  <br>
- <span id="text">CSS is designed primarily to enable the separation of document content from document presentation, including aspects such as the layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple HTML pages to share formatting by specifying the relevant CSS in a separate .css file, and reduce complexity and repetition in the structural content.
-Separation of formatting and content makes it possible to present the same markup page in different styles for different rendering methods, such as on-screen, in print, by voice (via speech-based browser or screen reader), and on Braille-based tactile devices. It can also display the web page differently depending on the screen size or viewing device. Readers can also specify a different style sheet, such as a CSS file stored on their own computer, to override the one the author specified.
-Changes to the graphic design of a document (or hundreds of documents) can be applied quickly and easily, by editing a few lines in the CSS file they use, rather than by changing markup in the documents.
-The CSS specification describes a priority scheme to determine which style rules apply if more than one rule matches against a particular element. In this so-called cascade, priorities (or weights) are calculated and assigned to rules, so that the results are predictable.
-The CSS specifications are maintained by the World Wide Web Consortium (W3C). Internet media type (MIME type) text/css is registered for use with CSS by RFC 2318 (March 1998). The W3C operates a free CSS validation service for CSS documents.<br>
-   <span class="source">Source:</span><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">Wikipedia</a>
-  </span>
-</div>
-<div class="btn-container">
-<button id="toggle">Read More</button>
-</div>
-        </script>
-        
-        
         
         
 <u2 style="list-style-type:circle;">   
