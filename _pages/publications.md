@@ -77,13 +77,13 @@ function myFunction2() {
   var btnText2 = document.getElementById("myBtn2");
 
   if (dots2.style.display === "none") {
-    dots2.style.display = "none";
-    btnText2.innerHTML = "Read more"; 
-    moreText2.style.display = "inline";
-  } else {
     dots2.style.display = "inline";
-    btnText2.innerHTML = "Read less"; 
+    btnText2.innerHTML = "Read more"; 
     moreText2.style.display = "none";
+  } else {
+    dots2.style.display = "none";
+    btnText2.innerHTML = "Read less"; 
+    moreText2.style.display = "inline";
   }
 }
 </script>
