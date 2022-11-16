@@ -43,5 +43,5 @@ author_profile: true
     <li align="justify"> <font size="-1">The award is offered to few elementary students based on their performance in the NODET's specific talent recognition exam.</font> </li>
   </ul>
   
-  <i class='fas fa-medal'></i><li align="justify"> Receiving the certificate of appreciation for attending as executive team at the 16th international conference of Iranian aerospace society, Tehran, Iran (2017). </li>
+  <li><i class='fas fa-medal'></i> Receiving the certificate of appreciation for attending as executive team at the 16th international conference of Iranian aerospace society, Tehran, Iran (2017). </li>
 
