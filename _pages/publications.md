@@ -50,6 +50,7 @@ function myFunction() {
 </script>
 <br>
 </div>
+<div>
 <ul>
      <li><a href="https://ieeexplore.ieee.org/document/9813381" style="color: #B509AC; text-decoration:none;" target="\_blank">Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution </a>
 <br><strong>K. F. Niresi</strong>, and C. -Y. Chi,<br><em>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022, doi: 10.1109/JSTARS.2022.3187722.</em></li>
@@ -87,7 +88,7 @@ function myFunction2() {
 }
 </script>
 <br>
-
+</div>
 <h1 class="year">2021</h1>
 <ul>
      <li><a href="https://ieeexplore.ieee.org/document/9813381" style="color: #B509AC; text-decoration:none;" target="\_blank">Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution </a>
