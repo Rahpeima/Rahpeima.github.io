@@ -24,8 +24,7 @@ author_profile: true
   
   <li><i class='fas fa-medal'></i> Received the title of the best national thesis of the year 2019 in aerospace engineering from the Iranian society of aerospace (2019). </li>
    
-   <li><i class='fas fa-medal'></i> Received the highest “Scientific Contribution Incentive Award” from K. N. Toosi University of
-Technology (2018). </li>
+   <li><i class='fas fa-medal'></i> Received the highest “Scientific Contribution Incentive Award” from K. N. Toosi University of Technology (2018). </li>
   
  <ul>
     <li> The award is offered to students based on their publication's quality. </li>
