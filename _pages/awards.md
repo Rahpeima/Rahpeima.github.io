@@ -4,12 +4,7 @@ title: "Honors & Awards"
 permalink: /awards/
 author_profile: true
 ---
-<style>
-            #main {
-                width: 500; /*Set to whatever*/
-                height: 500;/*Set to whatever*/
-            }
-        </style>
+
 <ul>
   <li align="justify"><i class='fas fa-medal'></i><font size="-1"> Received Taiwan's gold card in the field of science & technology (2021). </font></li>
 
