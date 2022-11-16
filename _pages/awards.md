@@ -5,8 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
-p {
- max-width: 100px;
+nav p {
+ width: 100%;
 }
 
 <p>
