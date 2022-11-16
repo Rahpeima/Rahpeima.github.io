@@ -49,7 +49,7 @@ function myFunction() {
   }
 }
 </script>
-</span>
+
  
 <u2 style="list-style-type:circle;">   
 <u2>
