@@ -49,11 +49,11 @@ function myFunction() {
  
 
  
- 
-<ul>
+<u2 style="list-style-type:circle;">   
+<u2>
      <li><a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: #B509AC; text-decoration:none;" target="\_blank">A Numerical Approach for Optimization of the Working Fluid of a Standing-Wave Thermo-Acoustic Refrigerator </a>
 <br><strong>Reza Rahpeima</strong>, and Reza Ebrahimi,<br><em>Engineering with computers, 2022, doi: 10.1007/s00366-022-01646-1.</em></li>
-</ul> <br>
+</u2> <br>
 
  <p align="center">
   <img width="368" height="418" src="https://user-images.githubusercontent.com/117890455/201561208-bcdefc1d-6056-4429-9ae7-4b96c09368d0.png">
