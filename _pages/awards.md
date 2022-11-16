@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <ul>
-  <li align="justify"><i class='fas fa-medal'></i> Received Taiwan's gold card in the field of science & technology (2021).</li>
+  <li align="justify"><i class='fas fa-medal'></i><font size="-1"> Received Taiwan's gold card in the field of science & technology (2021). </font></li>
 
  <ul>
         <li align="justify"> Permission of 3 years residency in Taiwan with several benefits. </li>
