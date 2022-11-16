@@ -50,14 +50,6 @@ function myFunction() {
 </script>
 <br>
 
----
-layout: archive
-permalink: /publications/
-author_profile: true
----
-
-<ul style="list-style-type:circle;">
- 
  
 <ul>
      <li><a href="https://ieeexplore.ieee.org/document/9813381" style="color: #B509AC; text-decoration:none;" target="\_blank">Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution </a>
