@@ -1,11 +1,11 @@
-max-width: 400px;
 ---
 layout: archive
 title: "Honors & Awards"
 permalink: /awards/
 author_profile: true
 ---
-
+body {
+max-width: 400px;
 <ul>
   <li align="justify"><i class='fas fa-medal'></i><font size="-1"> Received Taiwan's gold card in the field of science & technology (2021). </font></li>
 
@@ -46,3 +46,4 @@ author_profile: true
   </ul>
   
   <li align="justify"><i class='fas fa-medal'></i> <font size="-1">Receiving the certificate of appreciation for attending as executive team at the 16th international conference of Iranian aerospace society, Tehran, Iran (2017). </font></li>
+}
