@@ -42,12 +42,13 @@ author_profile: true
   
  <li> A member of Iran's “National Elites Foundation” (2020 utill now). </li>
 
-  <li> Recognized as a talented student and awarded membership to the NODET (National Organization for Development of Exceptional Talents)<br>
-    for middle and high school (2003 to 2010). </li>
+  <li> Recognized as a talented student and awarded membership to the NODET (National Organization for Development of <br>
+    Exceptional Talents) for middle and high school (2003 to 2010). </li>
   
 <ul>
-    <li> The award is offered to few elementary students based on their performance in the NODET's specific talent recognition exam. </li>
+    <li> The award is offered to few elementary students based on their performance in the NODET's specific talent <br>
+      recognition exam. </li>
   </ul>
   
-  <li> Receiving the certificate of appreciation for attending as executive team at the 16th international conference of Iranian <br>
-    aerospace society, Tehran, Iran (2017). </li>
+  <li> Receiving the certificate of appreciation for attending as executive team at the 16th international conference<br>
+    of Iranian aerospace society, Tehran, Iran (2017). </li>
