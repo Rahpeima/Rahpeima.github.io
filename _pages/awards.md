@@ -17,7 +17,8 @@ author_profile: true
         <li> The highest award offered to NTU international students. </li>
 </ul>
   
-  <li><i class='fas fa-medal'></i> Recognized as an elite student and permitted to use exceptional talents quota to continue education to Ph.D. at KNTU without participating in the nationwide university entrance exam (2018).</li>
+  <li><i class='fas fa-medal'></i> Recognized as an elite student and permitted to use exceptional talents quota to continue education 
+    to Ph.D. at KNTU without participating in the nationwide university entrance exam (2018).</li>
           
 
   <li><i class='fas fa-medal'></i> Ranked 1st in Cumulative GPA among students of the Propulsion Department, Class of 2015, K. N. Toosi University of Technology (2018).  </li>
