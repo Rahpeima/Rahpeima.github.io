@@ -1,3 +1,4 @@
+max-width: 400px;
 ---
 layout: archive
 title: "Honors & Awards"
