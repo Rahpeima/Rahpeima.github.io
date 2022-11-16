@@ -55,7 +55,7 @@ function myFunction() {
  
 <u2 style="list-style-type:circle;">   
 <u2>
-     <li><a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: #B509AC; text-decoration:none;" target="\_blank">A Numerical Approach for Optimization of the Working Fluid of a Standing-Wave Thermo-Acoustic Refrigerator </a>
+     <br><li><a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: #B509AC; text-decoration:none;" target="\_blank">A Numerical Approach for Optimization of the Working Fluid of a Standing-Wave Thermo-Acoustic Refrigerator </a>
 <br><strong>Reza Rahpeima</strong>, and Reza Ebrahimi,<br><em>Engineering with computers, 2022, doi: 10.1007/s00366-022-01646-1.</em></li>
 </u2> <br>
 
