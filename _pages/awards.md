@@ -38,7 +38,7 @@ author_profile: true
   
  <li align="justify"><i class='fas fa-medal'></i> <font size="-1">A member of Iran's “National Elites Foundation” (2020 utill now).</font> </li>
 
-  <li align="justify"><i class='fas fa-medal'></i> <font size="-1">Recognized as a talented student and awarded membership to the NODET (National Organization for Development of Exceptional Talents) for middle and high school (2003 to 2010). </font></li>
+  <li align="justify"><i class='fas fa-medal'></i> <font size="-1"><max-width: 75%>Recognized as a talented student and awarded membership to the NODET (National Organization for Development of Exceptional Talents) for middle and high school (2003 to 2010). </font></li>
   
 <ul>
     <li align="justify"> <font size="-2">The award is offered to few elementary students based on their performance in the NODET's specific talent recognition exam.</font> </li>
