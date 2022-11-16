@@ -104,7 +104,7 @@ function myFunction2() {
 </ul> <br>
 
  <p align="center">
-  <img width="671" height="585" src="https://user-images.githubusercontent.com/117890455/201510899-8b91c432-c60c-4569-9f97-f878e617ee70.png">
+  <img width="600" height="251" src="https://user-images.githubusercontent.com/117890455/202101351-60b38abc-ed8c-4ba4-8fa7-9b621763c5d1.jpg">
 </p>
 
 <style>
