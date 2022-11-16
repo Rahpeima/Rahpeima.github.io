@@ -5,13 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
-nav p {
- width: 100%;
-}
-
-<p>
 <ul>
-  <li align="justify"><i class='fas fa-medal'></i><font size="-1"> Received Taiwan's gold card in the field of science & technology (2021). </font></li>
+  <li align="justify"><li max-width: 75%><i class='fas fa-medal'></i><font size="-1"> Received Taiwan's gold card in the field of science & technology (2021). </font></li>
 
  <ul>
         <li align="justify"> <font size="-2"> Permission of 3 years residency in Taiwan with several benefits. </font></li>
@@ -50,4 +45,4 @@ nav p {
   </ul>
   
   <li align="justify"><i class='fas fa-medal'></i> <font size="-1">Receiving the certificate of appreciation for attending as executive team at the 16th international conference of Iranian aerospace society, Tehran, Iran (2017). </font></li>
-</p>
+
