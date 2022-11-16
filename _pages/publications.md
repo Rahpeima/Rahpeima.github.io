@@ -57,7 +57,7 @@ function myFunction() {
 <p><i class="fa fa-file" style="color:blue"></i> <a href="https://ieeexplore.ieee.org/document/9813381" style="color: blue; text-decoration:none;" target="\_blank">IEEE Xplore</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9813381" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <i class="fab fa-github" style="color:green"></i> <a href="https://github.com/Keiv4n/HLF-DIP" style="color: green; text-decoration:none;" target="\_blank">Code</a> | <i class="fas fa-globe" style="color:brown"></i> <a href="https://openremotesensing.net/knowledgebase/unsupervised-hyperspectral-denoising-based-on-deep-image-prior-and-least-favorable-distribution/" style="color:brown; text-decoration:none;" target="\_blank">Open Remote Sensing</a> | <button onclick="myFunction2()" id="myBtn2">Read more</button></p>
  
 <style>
-#more {display2: none;}
+#more {display: none;}
 </style> 
  
 <span id="dots2"></span><span id="more2">
@@ -76,14 +76,14 @@ function myFunction2() {
   var moreText2 = document.getElementById("more2");
   var btnText2 = document.getElementById("myBtn2");
 
-  if (dots2.style.display2 === "none") {
-    dots2.style.display2 = "inline";
+  if (dots2.style.display === "none") {
+    dots2.style.display = "inline";
     btnText2.innerHTML = "Read more"; 
-    moreText2.style.display2 = "none";
+    moreText2.style.display = "none";
   } else {
-    dots2.style.display2 = "none";
+    dots2.style.display = "none";
     btnText2.innerHTML = "Read less"; 
-    moreText2.style.display2 = "inline";
+    moreText2.style.display = "inline";
   }
 }
 </script>
