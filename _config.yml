@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Reza Rahpeima"
 title_separator          : "-"
 name                     : &name "Reza Rahpeima"
-description              :  &description "Research Assistant at Ultrasonic Imaging lab, Institute of Biomedical Electronics and Bioinformatics, College of Electrical Engineering and Computer Science, National Taiwan University, Taipei, Taiwan"
+description              : <p align="justify"> &description "Research Assistant at Ultrasonic Imaging lab, Institute of Biomedical Electronics and Bioinformatics, College of Electrical Engineering and Computer Science, National Taiwan University, Taipei, Taiwan" </p>
 url                      : https://Rahpeima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Rahpeima/Rahpeima.github.io"
