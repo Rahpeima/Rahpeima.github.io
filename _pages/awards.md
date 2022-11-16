@@ -5,10 +5,11 @@ permalink: /awards/
 author_profile: true
 ---
 
-
-  <i class='fas fa-medal'></i><p> Received Taiwan's gold card in the field of science & technology (2021).
-        <li> Permission of 3 years residency in Taiwan with several benefits. </font></li>
-</p>
+<ul>
+  <i class='fas fa-medal'></i><p> Received Taiwan's gold card in the field of science & technology (2021).</p>
+  <ul>      
+  <li> Permission of 3 years residency in Taiwan with several benefits. </font></li>
+</ul>
   
   <li align="justify"><i class='fas fa-medal'></i> Awarded a full scholarship by National Taiwan University for pursuing a Master’s degree (2022).</li>
 <ul>
