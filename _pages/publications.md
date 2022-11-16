@@ -86,6 +86,7 @@ function myFunction2() {
 }
 </script>
 <br>
+</h1>
 <h1 class="year">2021</h1>
 <ul>
      <li><a href="https://ieeexplore.ieee.org/document/9813381" style="color: #B509AC; text-decoration:none;" target="\_blank">Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution </a>
@@ -124,6 +125,6 @@ function myFunction3() {
 }
 </script>
  
- 
+</h1>
 
  
