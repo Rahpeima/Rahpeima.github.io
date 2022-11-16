@@ -4,10 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h1 class="year">2022</h1>
 
 <ul style="list-style-type:circle;">
- 
+
+<h1 class="year">2021</h1> 
 
  
 <ul>
@@ -86,8 +86,7 @@ function myFunction2() {
 }
 </script>
 <br>
- 
-layout: archive
+
 <h1 class="year">2021</h1>
 <ul>
      <li><a href="https://ieeexplore.ieee.org/document/9813381" style="color: #B509AC; text-decoration:none;" target="\_blank">Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution </a>
