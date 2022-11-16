@@ -15,7 +15,7 @@ author_profile: true
   
 <ul>        
 <p><i class="fa fa-file" style="color:blue"></i> <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274801" style="color: blue; text-decoration:none;" target="\_blank">Plos One</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/9996687/journal.pone.0274801.1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction()" id="myBtn">Read more</button>
-</ul> 
+
         
         
 <style>
