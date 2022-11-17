@@ -11,11 +11,11 @@ author_profile: true
 
  
 <ul>
-     <li><a href="https://ieeexplore.ieee.org/document/9813381" style="color: #B509AC; text-decoration:none;" target="\_blank">Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution </a>
-<br><strong>K. F. Niresi</strong>, and C. -Y. Chi,<br><em>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022, doi: 10.1109/JSTARS.2022.3187722.</em></li>
+     <li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274801" style="color: #B509AC; text-decoration:none;" target="\_blank">Numerical study of magnetic hyperthermia ablation of breast tumor on an anatomically realistic breast phantom </a>
+<br><strong>Reza Rahpeima</strong>, and Chao-An Lin,<br><em>Plos One, 2022, doi: 10.1371/journal.pone.0274801.</em></li>
 
 
-<p><i class="fa fa-file" style="color:blue"></i> <a href="https://ieeexplore.ieee.org/document/9813381" style="color: blue; text-decoration:none;" target="\_blank">IEEE Xplore</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9813381" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <i class="fab fa-github" style="color:green"></i> <a href="https://github.com/Keiv4n/HLF-DIP" style="color: green; text-decoration:none;" target="\_blank">Code</a> | <i class="fas fa-globe" style="color:brown"></i> <a href="https://openremotesensing.net/knowledgebase/unsupervised-hyperspectral-denoising-based-on-deep-image-prior-and-least-favorable-distribution/" style="color:brown; text-decoration:none;" target="\_blank">Open Remote Sensing</a> | <button onclick="myFunction()" id="myBtn">Read more</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274801" style="color: blue; text-decoration:none;" target="\_blank">Plos One</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/9996687/journal.pone.0274801.1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction()" id="myBtn">Read more</button></p>
  
 <style>
 #more {display: none;}
