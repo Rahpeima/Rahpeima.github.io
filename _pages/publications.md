@@ -15,7 +15,7 @@ author_profile: true
 <br><strong>Reza Rahpeima</strong>, and Chao-An Lin,<br><em>Plos One, 2022, doi:10.1371/journal.pone.0274801.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274801" style="color: blue; text-decoration:none;" target="\_blank">Plos</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/9996687/journal.pone.0274801.1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction()" id="myBtn">Read more</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274801" style="color: blue; text-decoration:none;" target="\_blank">Plos</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/9996687/journal.pone.0274801.1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction()" id="myBtn">Show Abstract</button></p>
  
 <style>
 #more {display: none;}
@@ -39,11 +39,11 @@ function myFunction() {
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
-    btnText.innerHTML = "Read more"; 
+    btnText.innerHTML = "Show Abstarct"; 
     moreText.style.display = "none";
   } else {
     dots.style.display = "none";
-    btnText.innerHTML = "Read less"; 
+    btnText.innerHTML = "Hide Abstarct"; 
     moreText.style.display = "inline";
   }
 }
@@ -56,7 +56,7 @@ function myFunction() {
 <br><strong>Reza Rahpeima</strong>, and Reza Ebrahimi,<br><em>Engineering with Computers, 2022, doi:10.1007/s00366-022-01646-1.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: blue; text-decoration:none;" target="\_blank">Springer</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/9998973/s00366-022-01646-1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction2()" id="myBtn2">Read more</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: blue; text-decoration:none;" target="\_blank">Springer</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/9998973/s00366-022-01646-1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction2()" id="myBtn2">Show Abstarct</button></p>
  
 
  
@@ -77,11 +77,11 @@ function myFunction2() {
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
-    btnText.innerHTML = "Read more"; 
+    btnText.innerHTML = "Show Abstarct"; 
     moreText.style.display = "none";
   } else {
     dots.style.display = "none";
-    btnText.innerHTML = "Read less"; 
+    btnText.innerHTML = "Hide Abstarct"; 
     moreText.style.display = "inline";
   }
 }
