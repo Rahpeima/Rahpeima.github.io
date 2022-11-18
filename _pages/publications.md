@@ -24,7 +24,7 @@ author_profile: true
 <span id="dots"></span><span id="more">
  
  <p align="center">
-  <img width="670" height="585" src="https://user-images.githubusercontent.com/117890455/201510899-8b91c432-c60c-4569-9f97-f878e617ee70.png">
+  <img width="603" height="526" src="https://user-images.githubusercontent.com/117890455/201510899-8b91c432-c60c-4569-9f97-f878e617ee70.png">
 </p>
 
 
@@ -63,7 +63,7 @@ function myFunction() {
 <span style="none" id="dots2"></span><span style="inline" id="more2">
  
  <p align="center">
-  <img width="552" height="627" src="https://user-images.githubusercontent.com/117890455/201561208-bcdefc1d-6056-4429-9ae7-4b96c09368d0.png">
+  <img width="496" height="564" src="https://user-images.githubusercontent.com/117890455/201561208-bcdefc1d-6056-4429-9ae7-4b96c09368d0.png">
 </p>
 
 
@@ -103,7 +103,7 @@ function myFunction2() {
 <span id="dots3"></span><span id="more3">
  
  <p align="center">
-  <img width="922" height="387" src="https://user-images.githubusercontent.com/117890455/202101351-60b38abc-ed8c-4ba4-8fa7-9b621763c5d1.jpg">
+  <img width="829" height="348" src="https://user-images.githubusercontent.com/117890455/202101351-60b38abc-ed8c-4ba4-8fa7-9b621763c5d1.jpg">
 </p>
 
 
