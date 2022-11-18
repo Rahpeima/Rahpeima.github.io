@@ -178,7 +178,7 @@ function myFunction4() {
 
    <ul>
      <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1359431118331326" style="color: #B509AC; text-decoration:none;" target="\_blank">Numerical investigation of the effect of stack geometrical parameters and thermo-physical properties on performance of a standing wave thermoacoustic refrigerator </a>
-<br><strong>Reza Rahpeima</strong>, Reza Ebrahimi,<br><em>Applied Thermal Engineering, 2019, doi:10.1016/j.applthermaleng.2018.12.093.</em></li>
+<br><strong>Reza Rahpeima</strong>, and Reza Ebrahimi,<br><em>Applied Thermal Engineering, 2019, doi:10.1016/j.applthermaleng.2018.12.093.</em></li>
 
 
 <p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359431118331326" style="color: blue; text-decoration:none;" target="\_blank">Elsevier</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10036995/Numerical.investigation.of.the.effect.of.stack.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction5()" id="myBtn5">Show Abstract</button></p>
@@ -215,7 +215,7 @@ function myFunction5() {
 
     <ul>
      <li><a href="https://mme.modares.ac.ir/article-15-24220-en.html" style="color: #B509AC; text-decoration:none;" target="\_blank">Numerical modeling of breast cancer diagnosis with microwave thermo-acoustic imaging </a>
-<br>Madjid Soltani, <strong>Reza Rahpeima</strong>, Farshad Moradi Kashkooli, Adel Alipoor, Pouya Torkaman<br><em>Modares Mechanical Engineering, 2019.</em></li>
+<br>Madjid Soltani, <strong>Reza Rahpeima</strong>, Farshad Moradi Kashkooli, Adel Alipoor, and Pouya Torkaman<br><em>Modares Mechanical Engineering, 2019.</em></li>
 
 
 <p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://mme.modares.ac.ir/article-15-24220-en.html" style="color: blue; text-decoration:none;" target="\_blank">Tarbiat Modares University Press</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10037073/Tarbiat.Modares.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction6()" id="myBtn6">Show Abstract</button></p>
@@ -252,8 +252,8 @@ function myFunction6() {
 
  
     <ul>
-     <li><a href="https://www.tandfonline.com/doi/abs/10.1080/13588265.2017.1367356" target="\_blank">Evaluation of the effect of inner and outer transverse and longitudinal grooves on energy absorption characteristics of cylindrical thin-walled tubes under quasi-static axial load</a>
-<br>Ali Alavi Nia, <strong>Reza Rahpeima</strong>, Saber Chahardoli, iman Nateghi<br><em>International Journal of Crashworthiness, 2019, doi:10.1016/j.applthermaleng.2018.12.093.</em></li>
+     <li><a href="https://www.tandfonline.com/doi/abs/10.1080/13588265.2017.1367356" style="color: #B509AC; text-decoration:none;" target="\_blank">Evaluation of the effect of inner and outer transverse and longitudinal grooves on energy absorption characteristics of cylindrical thin-walled tubes under quasi-static axial load</a>
+<br>Ali Alavi Nia, <strong>Reza Rahpeima</strong>, Saber Chahardoli, and iman Nateghi<br><em>International Journal of Crashworthiness, 2019, doi:10.1016/j.applthermaleng.2018.12.093.</em></li>
 
 
 <p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.tandfonline.com/doi/abs/10.1080/13588265.2017.1367356" style="color: blue; text-decoration:none;" target="\_blank">Taylor & Francis</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10037157/Evaluation.of.the.effect.of.inner.and.outer.transverse.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction7()" id="myBtn7">Show Abstract</button></p>
