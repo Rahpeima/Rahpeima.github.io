@@ -138,5 +138,41 @@ function myFunction3() {
  
 <h1 class="year">2019</h1>
 
+  <ul>
+     <li><a href="https://link.springer.com/article/10.1007/s11517-019-01961-8" style="color: #B509AC; text-decoration:none;" target="\_blank">Breast cancer diagnosis with a microwave thermoacoustic imaging technique—a numerical approach </a>
+<br>Madjid Soltani,<strong>Reza Rahpeima</strong>, and Farshad Moradi Kashkooli,<br><em>Medical & Biological Engineering & Computing, 2019, doi:10.1007/s11517-019-01961-8.</em></li>
+
+
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://link.springer.com/article/10.1007/s11517-019-01961-8" style="color: blue; text-decoration:none;" target="\_blank">Springer</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10036940/Breast.cancer.diagnosis.with.a.microwave.thermoacoustic.imaging.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction4()" id="myBtn4">Show Abstract</button></p>
+ 
+
+ 
+<span id="dots4"></span><span id="more4">
+ 
+ <p align="center">
+  <img width="818" height="428" src="https://user-images.githubusercontent.com/117890455/202596670-a22c2470-2fd5-4df4-a583-e999e82911f9.png">
+</p>
+
+
+<p align="justify"><b>Abstract:</b> Microwave-induced thermoacoustic imaging (MITAI) is an imaging technique with great potential for detecting breast cancer at early stages. Thermoacoustic imaging (TAI) combines the advantages of both microwave and ultrasound imaging techniques. In the current study, a three-dimensional novel numerical simulation of TAI phenomenon as a multi-physics problem is investigated. In the computational domain, a biological breast tissue including three different tissue types along with a tumor is placed in a tank containing castor oil and is irradiated by a 2.45-GHz pulsed microwave source from a rectangular waveguide. The generated heat in the biological tissue due to the electromagnetic wave irradiation and its corresponding pressure gradient in the tissue because of the temperature variations are evaluated. Also, capability of the MITAI process with respect to the tumor location and size is investigated. To identify the required power level needed for producing thermoacoustic signals, different power levels of microwave sources are investigated. The study’s results demonstrate a minuscule increase in temperature as a result of the absorption of pulsed microwave energy (for example, a maximum of 0.002472 °C temperature increase in tumor with 1 cm diameter which is located in fatty tissue of breast are obtained due to an excitation pulse of 1000 W, 1 ms). This small temperature variation in the tumor produces several kilopascals of pressure variations with maximum of 0.584016 kPa in tumor. This pressure variation will produce acoustic signals, which can be detected with an array of transducers and be used for image construction. Results demonstrate that the location of tumor in breast plays a vital role on the detecting performance of MITAI. Also, it is shown that very small tumors (with the diameter of 0.5 cm) can also be detected using MITAI technique. These simulations and procedures can be used for determining the amount of produced pressure variation, the acoustic pressure magnitude, and other complicated geometries.</p></span></ul>
+
+<script>
+function myFunction4() {
+  var dots = document.getElementById("dots4");
+  var moreText = document.getElementById("more4");
+  var btnText = document.getElementById("myBtn4");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Show Abstract"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Hide Abstract"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+<br>
 
  
