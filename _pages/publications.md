@@ -56,7 +56,7 @@ function myFunction() {
 <br><strong>Reza Rahpeima</strong>, and Reza Ebrahimi,<br><em>Engineering with Computers, 2022, doi:10.1007/s00366-022-01646-1.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: blue; text-decoration:none;" target="\_blank">Springer</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/9998973/s00366-022-01646-1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction2()" id="myBtn2">Hide Abstarct</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: blue; text-decoration:none;" target="\_blank">Springer</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/9998973/s00366-022-01646-1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction2()" id="myBtn2">Show Abstarct</button></p>
  
 
  
