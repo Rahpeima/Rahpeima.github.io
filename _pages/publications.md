@@ -263,7 +263,7 @@ function myFunction6() {
 <span id="dots7"></span><span id="more7">
  
  <p align="center">
-  <img width="497" height="667" src="https://user-images.githubusercontent.com/117890455/202602916-b928b341-5beb-4478-b131-d34159d21233.png">
+  <img width="596" height="800" src="https://user-images.githubusercontent.com/117890455/202745589-11681318-9c29-437a-a951-ba8f9edb4984.jpg">
 </p>
 
 
