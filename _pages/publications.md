@@ -175,4 +175,40 @@ function myFunction4() {
 </script>
 <br>
 
+
+   <ul>
+     <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1359431118331326" style="color: #B509AC; text-decoration:none;" target="\_blank">Numerical investigation of the effect of stack geometrical parameters and thermo-physical properties on performance of a standing wave thermoacoustic refrigerator </a>
+<br><strong>Reza Rahpeima</strong>, Reza Ebrahimi,<br><em>Applied Thermal Engineering, 2019, doi:10.1016/j.applthermaleng.2018.12.093.</em></li>
+
+
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359431118331326" style="color: blue; text-decoration:none;" target="\_blank">Springer</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10036995/Numerical.investigation.of.the.effect.of.stack.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction5()" id="myBtn5">Show Abstract</button></p>
  
+
+ 
+<span id="dots5"></span><span id="more5">
+ 
+ <p align="center">
+  <img width="688" height="296" src="https://user-images.githubusercontent.com/117890455/202597277-e93a8cda-4055-46cb-bc3d-158ae935de50.png">
+</p>
+
+
+<p align="justify"><b>Abstract:</b> A thermoacoustic cooler uses sound waves to transfer heat from a cold to a hot region. The stack operates as a medium of this heat transfer and plays a vital role in the cooling performance of these systems. The present study was conducted to investigate the effect of geometrical parameters and thermophysical properties of the stack on the cooling performance of a standing wave thermoacoustic refrigerator and determine most efficient stack geometry and the material. The geometrical parameters studied are the thickness and length of stack plates and the distance between them. The thermophysical properties studied are heat capacity and thermal conductivity of stack plate. To investigate the effects of these parameters, various samples were numerically analyzed in 2D space by the use of COMSOL software. Simulation results demonstrate that reducing thickness and thermal conductivity of the stack plates lead to lower cooling temperatures and higher coefficients of performance (COPs) at an equal temperature difference. Moreover, there are optimum values for the amount of distance between two stack plates and length of the stack, in which a lower cooling temperature and higher COP at equal temperature difference will be obtained. The lowest cooling temperature obtained in simulated samples is approximately −12 °C.</p></span></ul>
+
+<script>
+function myFunction5() {
+  var dots = document.getElementById("dots5");
+  var moreText = document.getElementById("more5");
+  var btnText = document.getElementById("myBtn5");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Show Abstract"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Hide Abstract"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+<br>
