@@ -60,7 +60,7 @@ function myFunction() {
  
 
  
-<span style=none id="dots2"></span><span id="more2">
+<span style="inline" id="dots2"></span><span style="none" id="more2">
  
  <p align="center">
   <img width="368" height="418" src="https://user-images.githubusercontent.com/117890455/201561208-bcdefc1d-6056-4429-9ae7-4b96c09368d0.png">
