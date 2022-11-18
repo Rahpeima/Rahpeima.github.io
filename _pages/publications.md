@@ -108,13 +108,13 @@ function myFunction2() {
 
 
 <p align="justify"><b>Abstract:</b> <br>
-Background and objective<br>
+<i>Background and objective</i><br>
 Microwave-induced thermoacoustic imaging (MITAI) represents an innovative imaging approach for detection of breast cancer at initial phases by integrating the benefits provided by procedures of microwave and ultrasound imaging. The present investigation examines an innovative three-dimensional numerical modeling of MITAI as a problem with multi-physics nature.<br>
-Methods<br>
+<i>Methods</i><br>
 Simulations are performed by the use of COMSOL software. An anatomically realistic breast phantom representing various parts of a real breast, such as three different types of tissue, fibro-connective/glandular, transitional; and fatty, is taken into consideration along with a tumor. This breast phantom with a tumor is irradiated by a 2.45 GHz pulsed rectangular waveguide. The temperature increase and its consequent pressure caused by electromagnetic absorption are analyzed.<br>
-Results<br>
+<i>Results</i><br>
 More temperature increase occurs in the tumor area than in the other parts of the breast, the fact which results in further increase in the pressure in the tumor area than other parts. This makes the tumor distinguishable. The ability of the MITAI process regarding the tumor size, shape (both geometrical shape and spatial orientation), location, the irradiation power level, and the pulse width is also investigated. It is demonstrated that tumor size does not have a significant impact on the efficiency of detection. In fact, very small tumors in the early stages of cancer development (with a radius of 0.25 cm) are also detectable by employing the MITAI technique. The geometrical shape of the tumor does not considerably affect the detecting performance just by itself. The spatial orientation of the tumor actually has a great impact on it. The location of the tumor is an essential factor involved in detection efficiency of MITAI. Tumors located in the fatty tissues would be much easier to be detected than those in the glandular tissues. Moreover, results denote that with augmentation of the irradiation power level or increasing the pulse width, stronger acoustic waves would be produced to make tumor detection easier.<br>
-Conclusion<br>
+<i>Conclusion</i><br>
 These modeling and techniques may be applied aiming for determination of the amount of the generated pressure differences and acoustic pressure magnitude, and can be utilized as an effective prognosticator in practical tests.</p></span></ul>
 
 <script>
