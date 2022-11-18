@@ -89,8 +89,6 @@ function myFunction2() {
 </script>
 <br>
 
-<h1 class="year">2021</h1>
-
 <h1 class="year">2020</h1>
 
  <ul>
@@ -98,7 +96,7 @@ function myFunction2() {
 <br><strong>Reza Rahpeima</strong>, Madjid Soltani, and Farshad Moradi Kashkooli,<br><em>Computer Methods and Programs in Biomedicine, 2020, doi:10.1016/j.cmpb.2020.105606.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169260720314395" style="color: blue; text-decoration:none;" target="\_blank">Springer</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/9998973/s00366-022-01646-1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction3()" id="myBtn3">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169260720314395" style="color: blue; text-decoration:none;" target="\_blank">Elsevier</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10036917/Numerical.anatomically.realistic.breast.phantom.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction3()" id="myBtn3">Show Abstract</button></p>
  
 
  
