@@ -24,7 +24,7 @@ author_profile: true
 <span id="dots"></span><span id="more">
  
  <p align="center">
-  <img width="447" height="390" src="https://user-images.githubusercontent.com/117890455/201510899-8b91c432-c60c-4569-9f97-f878e617ee70.png">
+  <img width="670" height="585" src="https://user-images.githubusercontent.com/117890455/201510899-8b91c432-c60c-4569-9f97-f878e617ee70.png">
 </p>
 
 
@@ -63,7 +63,7 @@ function myFunction() {
 <span style="none" id="dots2"></span><span style="inline" id="more2">
  
  <p align="center">
-  <img width="368" height="418" src="https://user-images.githubusercontent.com/117890455/201561208-bcdefc1d-6056-4429-9ae7-4b96c09368d0.png">
+  <img width="552" height="627" src="https://user-images.githubusercontent.com/117890455/201561208-bcdefc1d-6056-4429-9ae7-4b96c09368d0.png">
 </p>
 
 
@@ -103,7 +103,7 @@ function myFunction2() {
 <span id="dots3"></span><span id="more3">
  
  <p align="center">
-  <img width="615" height="258" src="https://user-images.githubusercontent.com/117890455/202101351-60b38abc-ed8c-4ba4-8fa7-9b621763c5d1.jpg">
+  <img width="922" height="387" src="https://user-images.githubusercontent.com/117890455/202101351-60b38abc-ed8c-4ba4-8fa7-9b621763c5d1.jpg">
 </p>
 
 
@@ -181,7 +181,7 @@ function myFunction4() {
 <br><strong>Reza Rahpeima</strong>, Reza Ebrahimi,<br><em>Applied Thermal Engineering, 2019, doi:10.1016/j.applthermaleng.2018.12.093.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359431118331326" style="color: blue; text-decoration:none;" target="\_blank">Springer</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10036995/Numerical.investigation.of.the.effect.of.stack.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction5()" id="myBtn5">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359431118331326" style="color: blue; text-decoration:none;" target="\_blank">Elsevier</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10036995/Numerical.investigation.of.the.effect.of.stack.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction5()" id="myBtn5">Show Abstract</button></p>
  
 
  
@@ -218,14 +218,14 @@ function myFunction5() {
 <br>Madjid Soltani, <strong>Reza Rahpeima</strong>, Farshad Moradi Kashkooli, Adel Alipoor, Pouya Torkaman<br><em>Modares Mechanical Engineering, 2019.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://mme.modares.ac.ir/article-15-24220-en.html" style="color: blue; text-decoration:none;" target="\_blank">Springer</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10037073/Tarbiat.Modares.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction6()" id="myBtn6">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://mme.modares.ac.ir/article-15-24220-en.html" style="color: blue; text-decoration:none;" target="\_blank">Tarbiat Modares University Press</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10037073/Tarbiat.Modares.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction6()" id="myBtn6">Show Abstract</button></p>
  
 
  
 <span id="dots6"></span><span id="more6">
  
  <p align="center">
-  <img width="516" height="134" src="https://user-images.githubusercontent.com/117890455/202599964-63ca7d25-1720-493c-a66b-cd33021e8be8.png">
+  <img width="825" height="215" src="https://user-images.githubusercontent.com/117890455/202599964-63ca7d25-1720-493c-a66b-cd33021e8be8.png">
 </p>
 
 
@@ -236,6 +236,44 @@ function myFunction6() {
   var dots = document.getElementById("dots6");
   var moreText = document.getElementById("more6");
   var btnText = document.getElementById("myBtn6");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Show Abstract"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Hide Abstract"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+<br>
+
+ 
+    <ul>
+     <li><a href="https://www.tandfonline.com/doi/abs/10.1080/13588265.2017.1367356" target="\_blank">Evaluation of the effect of inner and outer transverse and longitudinal grooves on energy absorption characteristics of cylindrical thin-walled tubes under quasi-static axial load</a>
+<br>Ali Alavi Nia, <strong>Reza Rahpeima</strong>, Saber Chahardoli, iman Nateghi<br><em>International Journal of Crashworthiness, 2019, doi:10.1016/j.applthermaleng.2018.12.093.</em></li>
+
+
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.tandfonline.com/doi/abs/10.1080/13588265.2017.1367356" style="color: blue; text-decoration:none;" target="\_blank">Taylor & Francis</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10037157/Evaluation.of.the.effect.of.inner.and.outer.transverse.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction7()" id="myBtn7">Show Abstract</button></p>
+ 
+
+ 
+<span id="dots7"></span><span id="more7">
+ 
+ <p align="center">
+  <img width="516" height="134" src="https://user-images.githubusercontent.com/117890455/202599964-63ca7d25-1720-493c-a66b-cd33021e8be8.png">
+</p>
+
+
+<p align="justify"><b>Abstract:</b> In this research, the effect of adding (inner or outer) transverse and longitudinal grooves on the energy absorption characteristics of cylindrical aluminium tubes has been studied experimentally and numerically. In the beginning, the samples were simulated by LS-Dyna software. Then, the most efficient samples in terms of the amount of specific energy were tested to verify the results of the simulation. In the experiments, 13 samples were tested and to ensure the results, the test was repeated for each sample. It was observed that creating a transverse groove lead to 15% reduction in the maximum collapse force. It was also observed that the creation of longitudinal grooves lead to the reduction of the maximum collapse force. So that with more longitudinal grooves, the reduction of the specific energy and maximum force will be greater. According to the results, specific energy of the samples with one transverse groove in the upper part of the tube was higher than the samples with a transverse groove at the bottom of the tube. The results showed that samples with both transverse and longitudinal internal grooves had more specific energy compared to similar samples with external grooves.</p></span></ul>
+
+<script>
+function myFunction7() {
+  var dots = document.getElementById("dots7");
+  var moreText = document.getElementById("more7");
+  var btnText = document.getElementById("myBtn7");
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
