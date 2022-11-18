@@ -10,7 +10,8 @@ author_profile: true
   <ul>      
   <li><font size="-1"> Permission of 3 years residency in Taiwan with several benefits.</font></li>
 </ul>
-  
+</ul>
+
   <li align="justify"><i class='fas fa-medal'></i> Awarded a full scholarship by National Taiwan University for pursuing a Master’s degree (2022).</li>
 <ul>
         <li align="justify"><font size="-1"> The highest award offered to NTU international students. </font></li>
