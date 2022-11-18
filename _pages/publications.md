@@ -60,7 +60,7 @@ function myFunction() {
  
 
  
-<span id="dots2"></span><span id="more2">
+<span style="none" id="dots2"></span><span id="more2">
  
  <p align="center">
   <img width="368" height="418" src="https://user-images.githubusercontent.com/117890455/201561208-bcdefc1d-6056-4429-9ae7-4b96c09368d0.png">
@@ -69,10 +69,6 @@ function myFunction() {
 
 <p align="justify"><b>Abstract:</b> The development of refrigeration systems using thermo-acoustic technology is a novel solution for achieving environmentally friendly refrigerators. A full transient CFD method is introduced here that can resemble the whole thermo-acoustic phenomena along with its different governing physics as a whole. The working fluid contributes critically to the thermo-acoustic refrigerators’ cooling performance. In this paper, unlike previous researches, all different possible combinations of noble gases are considered and the performance of the refrigerator from both aspects of cooling temperature and COPR are investigated to determine the optimized gas mixture among all combinations. For this purpose, the effect of the sound intensity and the fluid’s Prandtl number as two key factors are investigated on the refrigeration performance. By considering a 2D-axisymmetric computational geometry resembling the real model, it is tried to attain results as reliable as possible. COMSOL software is used to perform the simulations. It is concluded that from the aspect of the cooling temperature, a sample with the highest sound intensity (pure He sample in this research) is the best. But, from the aspect of a higher COPR (relative coefficient of performance), a sample with the lowest Pr number (72%He–28%Xe sample in this research) would be the best. The lowest cooling temperature which is achieved by the pure He sample was about 273 K and the highest COPR which belongs to 72%He–28%Xe sample was approximately 0.335.</p></span></ul>
 
-
-<script> 
- dots.style.display === "none"
-<script>
  
 <script>
 function myFunction2() {
