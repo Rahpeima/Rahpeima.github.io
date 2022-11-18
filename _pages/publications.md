@@ -212,3 +212,40 @@ function myFunction5() {
 }
 </script>
 <br>
+
+    <ul>
+     <li><a href="https://mme.modares.ac.ir/article-15-24220-en.html" style="color: #B509AC; text-decoration:none;" target="\_blank">Numerical modeling of breast cancer diagnosis with microwave thermo-acoustic imaging </a>
+<br>Madjid Soltani, <strong>Reza Rahpeima</strong>, Farshad Moradi Kashkooli, Adel Alipoor, Pouya Torkaman<br><em>Modares Mechanical Engineering, 2019.</em></li>
+
+
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://mme.modares.ac.ir/article-15-24220-en.html" style="color: blue; text-decoration:none;" target="\_blank">Springer</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/10037073/Tarbiat.Modares.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction6()" id="myBtn6">Show Abstract</button></p>
+ 
+
+ 
+<span id="dots6"></span><span id="more6">
+ 
+ <p align="center">
+  <img width="516" height="134" src="https://user-images.githubusercontent.com/117890455/202599964-63ca7d25-1720-493c-a66b-cd33021e8be8.png">
+</p>
+
+
+<p align="justify"><b>Abstract:</b> Microwave-induced thermo-acoustic imaging (TAI) is an imaging technique with a great potential in detecting breast cancer at early stages. This technique combines the advantages of both microwave and ultrasound imaging. In this technique, image construction is based on the acoustic waves which are produced in the tissue due to irradiation of microwave pulses on it. Due to multi-physics nature of this phenomenon, the capability and feasibility of a numerical simulation method which can solve this problem consistently, investigated with performing a two dimensional simulation of TAI. In this simulation, a biological tissue including a tumor is considered in a rectangular duct (waveguide) under irradiation of pulsed 2.45 GHz microwave source. The generated heat in the biological tissue due to electromagnetic waves irradiation and the corresponding pressure gradient in the tissue due to the temperature variations are evaluated. It is then studied for different power levels of microwave sources for identifying required power level for producing thermo-acoustic signals. Simulation results show a minuscule rise in temperature as a result of the absorption of pulsed microwave energy, for example, 0.004743°C temperature increment in the center of the tumor, due to excitation pulse of 1000 W, 200 μs. This small temperature variation in tumor, produce several kPa of pressure variations, 0.02759 kPa pressure difference at the interface of tumor and breast tissue. This pressure variation will produce acoustic signals, which can be detected with array of transducers and used for construction of image.</p></span></ul>
+
+<script>
+function myFunction6() {
+  var dots = document.getElementById("dots6");
+  var moreText = document.getElementById("more6");
+  var btnText = document.getElementById("myBtn6");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Show Abstract"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Hide Abstract"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+<br>
