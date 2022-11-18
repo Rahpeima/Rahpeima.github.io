@@ -44,7 +44,7 @@ author_profile: true
 <ul>
  <li align="justify"><i class='fas fa-medal'></i> Recognized as a talented student and awarded membership to the NODET (National Organization for Development of Exceptional Talents) for middle and high school (2003 to 2010). </li>
 <ul>
-    <li align="justify"> The award is offered to few elementary students based on their performance in the NODET's specific talent recognition exam.</font> </li>
+    <li align="justify"> The award is offered to few elementary students based on their performance in the NODET's specific talent recognition exam. </li>
   </ul>
   </ul>
   <ul>
