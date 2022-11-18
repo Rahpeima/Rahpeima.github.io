@@ -21,10 +21,10 @@ author_profile: true
   <li align="justify"><i class='fas fa-medal'></i> Recognized as an elite student and permitted to use exceptional talents quota to continue education to Ph.D. at KNTU without participating in the nationwide university entrance exam (2018).</li>
 </ul>         
 <ul>
-  <li align="justify"><i class='fas fa-medal'></i> Ranked 1st in Cumulative GPA among students of the Propulsion Department, Class of 2015, K. N. Toosi University of Technology (2018). </li>
+  <li align="justify"><i class='fas fa-medal'></i> Ranked 1st in Cumulative GPA among students of Propulsion Department, Class of 2015, K. N. Toosi University of Technology (2018). </li>
 </ul>
 <ul>
-  <li align="justify"><i class='fas fa-medal'></i> Received the title of the best national thesis of the year 2019 in aerospace engineering from the Iranian society of aerospace (2019). </li>
+  <li align="justify"><i class='fas fa-medal'></i> Received title of the best national thesis of year 2019 in aerospace engineering from Iranian society of aerospace (2019). </li>
 </ul>
 <ul>
    <li align="justify"><i class='fas fa-medal'></i> Received the highest “Scientific Contribution Incentive Award” from K. N. Toosi University of Technology (2018). </li>
