@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<ul style="list-style-type:circle;"></ul>
+
 
 <h1 class="year">2022</h1> 
 
