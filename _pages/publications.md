@@ -62,14 +62,15 @@ function myFunction() {
 #more {display: none;}
 </style> 
  
- <span id="dots2"></span><span id="more2"></span>
- <script>
-  document.getElementById("dots2").style.display = "inline"
-  document.getElementById("more2").style.display = "none";
- </script>
  
 <span id="dots2"></span><span id="more2">
  
+ <script>
+  if (document.getElementById("dots2").style.display != "none"){
+  document.getElementById("dots2").style.display = "inline";
+  document.getElementById("more2").style.display = "none";
+  }
+ </script>
  
  <p align="center">
   <img width="496" height="564" src="https://user-images.githubusercontent.com/117890455/201561208-bcdefc1d-6056-4429-9ae7-4b96c09368d0.png">
