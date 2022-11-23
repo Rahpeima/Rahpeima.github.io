@@ -290,3 +290,26 @@ function myFunction7() {
 </script>
 <br>
 
+
+
+
+
+  <div class="wrapper">
+      <div class="title">Show More & Show Less Button </div>
+      <ul>
+          <li>Lorem ipsum dolor sit amet.</li>
+          <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+          <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae necessitatibus consequatur quae doloribus eaque quod cumque? Modi, impedit, deserunt pariatur accusantium commodi magnam eos, qui debitis officiis obcaecati ut voluptatum.</li>
+          <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, ex?</li>
+          <li>Lorem, ipsum.</li>
+          <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+          <li>Lorem ipsum dolor sit.</li>
+          <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, ex?</li>
+          <li>Lorem, ipsum.</li>
+      </ul>
+      <div class="toggle_btn">
+          <span class="toggle_text">Show More</span> <span class="arrow">
+        <i class="fas fa-angle-down"></i>
+        </span>
+      </div>
+  </div>
