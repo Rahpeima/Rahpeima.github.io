@@ -63,8 +63,8 @@ function myFunction() {
 </style> 
  
  <script>
-  document.getElementById("dots2").style.display = "inline"
-  document.getElementById("more2").style.display = "none";
+  document.getElementById("dots2").style.display = "none"
+  document.getElementById("more2").style.display = "inline";
  </script>
  
 <span id="dots2"></span><span id="more2">
