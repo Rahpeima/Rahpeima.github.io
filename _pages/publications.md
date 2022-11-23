@@ -64,6 +64,11 @@ function myFunction() {
  
 <span id="dots2"></span><span id="more2">
  
+<script>
+ document.getElementById("dots2").style.display = "inline"
+ document.getElementById("more2").style.display = "none";
+</script
+ 
  <p align="center">
   <img width="496" height="564" src="https://user-images.githubusercontent.com/117890455/201561208-bcdefc1d-6056-4429-9ae7-4b96c09368d0.png">
 </p>
@@ -78,14 +83,14 @@ function myFunction() {
   var moreText = document.getElementById("more2");
   var btnText = document.getElementById("myBtn2");
  
-  if (dots.style.display != "none") {
-    dots.style.display = "none";
-    btnText.innerHTML = "Show Abstarct"; 
-    moreText.style.display = "inline";
-  } else {
+  if (dots.style.display === "none") {
     dots.style.display = "inline";
-    btnText.innerHTML = "Hide Abstarct"; 
+    btnText.innerHTML = "Show Abstarct"; 
     moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Hide Abstarct"; 
+    moreText.style.display = "inline";
   }
 }
 </script>
