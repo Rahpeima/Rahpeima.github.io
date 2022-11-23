@@ -55,14 +55,14 @@ function myFunction() {
 <br><strong>Reza Rahpeima</strong>, and Reza Ebrahimi,<br><em>Engineering with Computers, 2022, doi:10.1007/s00366-022-01646-1.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: blue; text-decoration:none;" target="\_blank">Springer</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/9998973/s00366-022-01646-1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction2()" id="myBtn2">Show Abstarct</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: blue; text-decoration:none;" target="\_blank">Springer</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/9998973/s00366-022-01646-1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction2()" id="myBtn">Show Abstarct</button></p>
  
 
 <style>
 #more {display: none;}
 </style> 
  
-<span id="more2"></span><span id="dots2">
+<span id="dots2"></span><span id="more2">
  
  <p align="center">
   <img width="496" height="564" src="https://user-images.githubusercontent.com/117890455/201561208-bcdefc1d-6056-4429-9ae7-4b96c09368d0.png">
@@ -76,7 +76,7 @@ function myFunction() {
  function myFunction2() {
   var dots = document.getElementById("dots2");
   var moreText = document.getElementById("more2");
-  var btnText = document.getElementById("myBtn2");
+  var btnText = document.getElementById("myBtn");
  
   if (dots.style.display === "none") {
     dots.style.display = "inline";
