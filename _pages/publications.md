@@ -293,6 +293,16 @@ function myFunction7() {
 
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- css cdn link -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
   <div class="wrapper">
       <div class="title">Show More & Show Less Button </div>
@@ -313,3 +323,16 @@ function myFunction7() {
         </span>
       </div>
   </div>
+
+<!--javascript cdn link-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" charset="utf-8"></script>
+  <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+
+  <!-- javascript code-->
+  <!--
+    <script>
+      add javascript code
+    </script>  
+  -->
+</body>
+</html>
