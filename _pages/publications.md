@@ -79,11 +79,11 @@ function myFunction() {
   var btnText = document.getElementById("myBtn2");
  
   if (dots.style.display != "none") {
-    dots.style.display = "inline";
+    dots.style.display = "none";
     btnText.innerHTML = "Show Abstarct"; 
     moreText.style.display = "none";
   } else {
-    dots.style.display = "none";
+    dots.style.display = "inline";
     btnText.innerHTML = "Hide Abstarct"; 
     moreText.style.display = "inline";
   }
