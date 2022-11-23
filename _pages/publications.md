@@ -50,11 +50,6 @@ function myFunction() {
 <br>
 
 
-<style>
-#more {display: none;}
-</style>
-
-
 <ul>
      <li><a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: #B509AC; text-decoration:none;" target="\_blank">A numerical approach for optimization of the working fluid of a standing-wave thermo-acoustic refrigerator </a>
 <br><strong>Reza Rahpeima</strong>, and Reza Ebrahimi,<br><em>Engineering with Computers, 2022, doi:10.1007/s00366-022-01646-1.</em></li>
@@ -63,8 +58,11 @@ function myFunction() {
 <p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: blue; text-decoration:none;" target="\_blank">Springer</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/9998973/s00366-022-01646-1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction2()" id="myBtn2">Show Abstarct</button></p>
  
 
+<style>
+#more {display: none;}
+</style> 
  
-<span style="none" id="dots2"></span><span style="inline" id="more2">
+<span id="dots2"></span><span id="more2">
  
  <p align="center">
   <img width="496" height="564" src="https://user-images.githubusercontent.com/117890455/201561208-bcdefc1d-6056-4429-9ae7-4b96c09368d0.png">
