@@ -253,7 +253,7 @@ function myFunction6() {
 <br>
 
  
-    <ul>
+ <ul>
      <li><a href="https://www.tandfonline.com/doi/abs/10.1080/13588265.2017.1367356" style="color: #B509AC; text-decoration:none;" target="\_blank">Evaluation of the effect of inner and outer transverse and longitudinal grooves on energy absorption characteristics of cylindrical thin-walled tubes under quasi-static axial load</a>
 <br>Ali Alavi Nia, <strong>Reza Rahpeima</strong>, Saber Chahardoli, and iman Nateghi<br><em>International Journal of Crashworthiness, 2019, doi:10.1016/j.applthermaleng.2018.12.093.</em></li>
 
@@ -290,49 +290,3 @@ function myFunction7() {
 </script>
 <br>
 
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <!-- css cdn link -->
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-  <div class="wrapper">
-      <div class="title">Show More & Show Less Button </div>
-      <ul>
-          <li>Lorem ipsum dolor sit amet.</li>
-          <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-          <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae necessitatibus consequatur quae doloribus eaque quod cumque? Modi, impedit, deserunt pariatur accusantium commodi magnam eos, qui debitis officiis obcaecati ut voluptatum.</li>
-          <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, ex?</li>
-          <li>Lorem, ipsum.</li>
-          <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-          <li>Lorem ipsum dolor sit.</li>
-          <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, ex?</li>
-          <li>Lorem, ipsum.</li>
-      </ul>
-      <div class="toggle_btn">
-          <span class="toggle_text">Show More</span> <span class="arrow">
-        <i class="fas fa-angle-down"></i>
-        </span>
-      </div>
-  </div>
-
-<!--javascript cdn link-->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" charset="utf-8"></script>
-  <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
-
-  <!-- javascript code-->
-  <!--
-    <script>
-      add javascript code
-    </script>  
-  -->
-</body>
-</html>
