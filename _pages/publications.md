@@ -81,11 +81,11 @@ function myFunction() {
   if (dots.style.display != "none") {
     dots.style.display = "none";
     btnText.innerHTML = "Show Abstarct"; 
-    moreText.style.display = "none";
+    moreText.style.display = "inline";
   } else {
     dots.style.display = "inline";
     btnText.innerHTML = "Hide Abstarct"; 
-    moreText.style.display = "inline";
+    moreText.style.display = "none";
   }
 }
 </script>
