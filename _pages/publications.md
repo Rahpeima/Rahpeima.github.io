@@ -4,12 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-#more {display: none;}
-</style>
-</head>
 
 <ul style="list-style-type:circle;">
 
@@ -55,7 +49,13 @@ function myFunction() {
 </script>
 <br>
 
- 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+#more {display: none;}
+</style>
+</head>
+
 <ul>
      <li><a href="https://link.springer.com/article/10.1007/s00366-022-01646-1" style="color: #B509AC; text-decoration:none;" target="\_blank">A numerical approach for optimization of the working fluid of a standing-wave thermo-acoustic refrigerator </a>
 <br><strong>Reza Rahpeima</strong>, and Reza Ebrahimi,<br><em>Engineering with Computers, 2022, doi:10.1007/s00366-022-01646-1.</em></li>
