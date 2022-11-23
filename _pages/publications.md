@@ -47,7 +47,7 @@ function myFunction() {
   }
 }
 </script>
-<br>
+
 
 
 <ul>
@@ -175,7 +175,7 @@ function myFunction4() {
   }
 }
 </script>
-<br>
+
 
 
    <ul>
@@ -213,7 +213,7 @@ function myFunction5() {
   }
 }
 </script>
-<br>
+
 
 <ul>
      <li><a href="https://mme.modares.ac.ir/article-15-24220-en.html" style="color: #B509AC; text-decoration:none;" target="\_blank">Numerical modeling of breast cancer diagnosis with microwave thermo-acoustic imaging </a>
@@ -250,7 +250,7 @@ function myFunction6() {
   }
 }
 </script>
-<br>
+
 
 
  <ul>
@@ -288,5 +288,5 @@ function myFunction7() {
   }
 }
 </script>
-<br>
+
 
