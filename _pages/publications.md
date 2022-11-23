@@ -73,6 +73,17 @@ function myFunction() {
 
  
 <script>
+ 
+ if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Show Abstarct"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Show Abstarct"; 
+    moreText.style.display = "none";
+  }
+ 
  function myFunction2() {
   var dots = document.getElementById("dots2");
   var moreText = document.getElementById("more2");
