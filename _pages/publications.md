@@ -111,6 +111,13 @@ function myFunction() {
 
  
 <span id="dots3"></span><span id="more3">
+
+ <script>
+  if (document.getElementById("dots3").style.display != "none"){
+  document.getElementById("dots3").style.display = "inline";
+  document.getElementById("more3").style.display = "none";
+  }
+ </script>
  
  <p align="center">
   <img width="829" height="348" src="https://user-images.githubusercontent.com/117890455/202101351-60b38abc-ed8c-4ba4-8fa7-9b621763c5d1.jpg">
