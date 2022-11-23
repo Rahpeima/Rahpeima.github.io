@@ -10,39 +10,3 @@ redirect_from:
 {% include base_path %}
 
 You can download my full resume from <a href="https://github.com/Rahpeima/required/files/10046110/CV-Uni.pdf" target="\_blank" style="color: #B509AC; text-decoration:none">here</a>.
-
-
-<h1>Hello world</h1>
-<p class="text">
-    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis
-    veritatis animi aliquam laboriosam velit, esse, blanditiis aspernatur sint
-    est magnam debitis delectus in fuga fugiat repellat dignissimos ipsum
-    necessitatibus corrupti veniam reprehenderit,<span class="dots"> ...</span>
-    <span class="moreText">
-        assumenda sapiente expedita labore atque! Sint velit cumque minus
-        pariatur quisquam, beatae ab quo impedit eaque soluta vel laboriosam
-        itaque similique iste ex aut in nihil dolorem consequuntur possimus
-        eligendi eos optio ipsam! Sint ullam voluptate obcaecati asperiores eos
-        vero sed iusto magnam ad, vel repellat quidem? Omnis fugit accusantium,
-        illo quos eos odio consectetur et nemo excepturi deleniti dolorum
-        adipisci dolores delectus possimus libero, sed iusto dolorem? Lorem
-        ipsum dolor sit amet consectetur adipisicing elit. Reiciendis neque
-        distinctio modi dicta ut aperiam molestiae quos incidunt dolore iure
-        officia! Blanditiis sint delectus quam quae nulla.</span
-    >
-</p>
-<button class="read-more-btn">Read More</button>
-
-
-<script>
-const readMoreBtn = document.querySelector(".read-more-btn");
-const text = document.querySelector(".text");
-readMoreBtn.addEventListener("click", (e) => {
-    text.classList.toggle("show-more");
-    if (readMoreBtn.innerText === "Read More") {
-        readMoreBtn.innerText = "Read Less";
-    } else {
-        readMoreBtn.innerText = "Read More";
-    }
-});
-  </script>
