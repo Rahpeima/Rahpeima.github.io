@@ -165,6 +165,13 @@ function myFunction3() {
 
  
 <span id="dots4"></span><span id="more4">
+
+<script>
+  if (document.getElementById("dots4").style.display != "none"){
+  document.getElementById("dots4").style.display = "inline";
+  document.getElementById("more4").style.display = "none";
+  }
+ </script>
  
  <p align="center">
   <img width="818" height="428" src="https://user-images.githubusercontent.com/117890455/202596670-a22c2470-2fd5-4df4-a583-e999e82911f9.png">
@@ -204,6 +211,13 @@ function myFunction4() {
  
 <span id="dots5"></span><span id="more5">
  
+ <script>
+  if (document.getElementById("dots5").style.display != "none"){
+  document.getElementById("dots5").style.display = "inline";
+  document.getElementById("more5").style.display = "none";
+  }
+ </script>
+ 
  <p align="center">
   <img width="688" height="296" src="https://user-images.githubusercontent.com/117890455/202597277-e93a8cda-4055-46cb-bc3d-158ae935de50.png">
 </p>
@@ -240,6 +254,13 @@ function myFunction5() {
 
  
 <span id="dots6"></span><span id="more6">
+ 
+<script>
+  if (document.getElementById("dots6").style.display != "none"){
+  document.getElementById("dots6").style.display = "inline";
+  document.getElementById("more6").style.display = "none";
+  }
+ </script>
  
  <p align="center">
   <img width="825" height="215" src="https://user-images.githubusercontent.com/117890455/202599964-63ca7d25-1720-493c-a66b-cd33021e8be8.png">
@@ -278,6 +299,13 @@ function myFunction6() {
 
  
 <span id="dots7"></span><span id="more7">
+ 
+<script>
+  if (document.getElementById("dots7").style.display != "none"){
+  document.getElementById("dots7").style.display = "inline";
+  document.getElementById("more7").style.display = "none";
+  }
+ </script>
  
  <p align="center">
   <img width="596" height="800" src="https://user-images.githubusercontent.com/117890455/202745589-11681318-9c29-437a-a951-ba8f9edb4984.jpg">
