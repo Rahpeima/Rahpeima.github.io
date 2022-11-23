@@ -4,17 +4,17 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-<ul style="list-style-type:circle;">
-
-<h1 class="year">2022</h1> 
-
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 #more {display: none;}
 </style>
 </head>
+
+<ul style="list-style-type:circle;">
+
+<h1 class="year">2022</h1> 
+
  
      <li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274801" style="color: #B509AC; text-decoration:none;" target="\_blank">Numerical study of magnetic hyperthermia ablation of breast tumor on an anatomically realistic breast phantom </a>
 <br><strong>Reza Rahpeima</strong>, and Chao-An Lin,<br><em>Plos One, 2022, doi:10.1371/journal.pone.0274801.</em></li>
