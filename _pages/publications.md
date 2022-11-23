@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+<ul style="list-style-type:circle;"></ul>
 
 <h1 class="year">2022</h1> 
 
@@ -78,7 +78,7 @@ function myFunction() {
   var moreText = document.getElementById("more2");
   var btnText = document.getElementById("myBtn2");
  
-  if (dots.style.display === "none") {
+  if (dots.style.display != "none") {
     dots.style.display = "inline";
     btnText.innerHTML = "Show Abstarct"; 
     moreText.style.display = "none";
