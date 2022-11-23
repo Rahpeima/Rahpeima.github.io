@@ -89,7 +89,7 @@ function myFunction2() {
   }
 }
 </script>
-<br>
+
 
 <h1 class="year">2020</h1>
 
@@ -136,7 +136,7 @@ function myFunction3() {
   }
 }
 </script>
-<br>
+
  
 <h1 class="year">2019</h1>
 
