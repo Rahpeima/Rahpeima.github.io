@@ -33,39 +33,7 @@ You can download my full resume from <a href="https://github.com/Rahpeima/requir
 </p>
 <button class="read-more-btn">Read More</button>
 
-<html>
-<body>
-body {
-    font-family: "Montserrat";
-    text-align: justify;
-    max-width: 800px;
-    margin: 0 auto;
-    background-color: rgb(18, 23, 27);
-    color: aliceblue;
-}
-.text {
-    font-size: 24px;
-}
-.moreText {
-    display: none;
-}
-.read-more-btn {
-    padding: 15px 60px;
-    background-color: rgb(149, 170, 197);
-    color: rgb(53, 49, 49);
-    border: none;
-    outline: none;
-    font-size: 20px;
-    cursor: pointer;
-}
-.text.show-more .moreText {
-    display: inline;
-}
-.text.show-more .dots {
-    display: none;
-}
-</html>
-</body>
+
 <script>
 const readMoreBtn = document.querySelector(".read-more-btn");
 const text = document.querySelector(".text");
