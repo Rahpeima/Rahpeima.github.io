@@ -5,8 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-<i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i><ul>
-   Received Taiwan's gold card in the field of science & technology (2021).
+<i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i><ul> Received Taiwan's gold card in the field of science & technology (2021).
    <ul> 
   <li> Permission of 3 years residency in Taiwan with several benefits.</li>
   </ul>
