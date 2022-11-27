@@ -18,7 +18,7 @@ author_profile: true
 </ul>
 </ul>  
 <ul>
-  <i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i> <ul> Recognized as an elite student and permitted to use exceptional talents quota to continue education to Ph.D. at KNTU without participating in the nationwide university entrance exam (2018).</ul>
+  <i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i> Recognized as an elite student and permitted to use exceptional talents quota to continue education to Ph.D. at KNTU without participating in the nationwide university entrance exam (2018).
 </ul>         
 <ul>
   <i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i> Ranked 1st in cumulative GPA among students of Propulsion Department, Class of 2015, K. N. Toosi University of Technology (2018).
