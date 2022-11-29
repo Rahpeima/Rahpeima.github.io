@@ -30,7 +30,7 @@ My research interests lie primarily in photoacoustic/thermoacoustic imaging, aco
           <li align="justify"><b>October 2022:</b> I started my work in <a href="https://www.shl-medical.com/" style="color: #B509AC; text-decoration:none;" target="\_blank">SHL Medical</a> as a "simulation engineer" intern. </li>
                <li align="justify"><b>September 2022:</b> My research paper, "Numerical study of magnetic hyperthermia ablation of breast tumor on an anatomically realistic breast phantom", is published in the <b>Plos One</b> journal. </li>     
            <li align="justify"><b>September 2022:</b> I started my M.Sc. degree in "Biomedical Electronics & Bioinformatics" at <a href="https://www.ntu.edu.tw/english/index.html" style="color: #B509AC; text-decoration:none;" target="\_blank">National Taiwan University (NTU)</a>.</li>
- <li align="justify"><b>July 2022:</b> I started my research as a research assistant in <a href="https://www.ntu.edu.tw/english/index.html" style="color: #B509AC; text-decoration:none;" target="\_blank">National Taiwan University (NTU)</a> and <a href="https://sites.google.com/view/pai-chilislab/home" style="color: #B509AC; text-decoration:none;" target="\_blank">Ultrasonic Imaging Lebaretory</a> </li>
+ <li align="justify"><b>July 2022:</b> I started my work as a research assistant at <a href="https://sites.google.com/view/pai-chilislab/home" style="color: #B509AC; text-decoration:none;" target="\_blank">Ultrasonic Imaging Lebaretory</a> of <a href="https://www.ntu.edu.tw/english/index.html" style="color: #B509AC; text-decoration:none;" target="\_blank">National Taiwan University (NTU)</a>.</li>
           
 <hr/>
 </ul>
