@@ -16,8 +16,7 @@ author_profile: true
 
 
 <p align="center"><button onclick="myFunction3()" id="myBtn3" 
-                          style="background-color: DarkSlateBlue ;color: white; border: none; padding: 8px 20px;
-  border-radius: 5px; width: 35%; font-size: 16px "> Show Abstract</button></p>
+                          style="border-radius: 5px; width: 35%; font-size: 16px "> Read More</button></p>
  
 
  
@@ -41,11 +40,11 @@ function myFunction3() {
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
-    btnText.innerHTML = " Show Abstract"; 
+    btnText.innerHTML = "Read More"; 
     moreText.style.display = "none";
   } else {
     dots.style.display = "none";
-    btnText.innerHTML = " Hide Abstract"; 
+    btnText.innerHTML = "Read Less"; 
     moreText.style.display = "inline";
   }
 }
