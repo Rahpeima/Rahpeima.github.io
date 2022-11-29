@@ -6,7 +6,7 @@ author_profile: true
 ---
 <style>
   ul{
-  list-style-image:url(&#xf5a2;);
+  list-style-image:url('sqpurple.gif');
   }
   </style>
 
