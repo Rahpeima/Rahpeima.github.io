@@ -19,7 +19,7 @@ ul.demo {
 <body>
 <p></p>
 <ul class="demo" align="justify">
-  Received Taiwan's gold card in the field of science & technology (2021).
+  <li>Received Taiwan's gold card in the field of science & technology (2021).</li>
   <ul>
   <li> Permission of 3 years residency in Taiwan with several benefits.</li>
 </ul>
