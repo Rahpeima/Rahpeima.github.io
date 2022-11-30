@@ -9,6 +9,7 @@ author_profile: true
 <style>
 ul.demo {
   list-style-type: none;
+  list-style-image: url("starsolid.gif");
   margin: 0;
   padding: 0;
 }
