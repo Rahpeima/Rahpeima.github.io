@@ -24,10 +24,8 @@ ul.demo {
 </li>
 </ul>
 <ul class="demo" align="justify">
-  Awarded a full scholarship by National Taiwan University for pursuing a Master’s degree (2022).
-<ul>
-        <li align="justify"> The highest award offered to NTU international students.</li>
-</ul>
+  <li>Awarded a full scholarship by National Taiwan University for pursuing a Master’s degree (2022).<br>
+        &#x2022; The highest award offered to NTU international students.</li>
 </ul>  
 <ul class="demo" align="justify">
   <li> Recognized as an elite student and permitted to use exceptional talents quota to continue education to Ph.D. at KNTU without participating in the nationwide university entrance exam (2018).</li>
@@ -39,25 +37,19 @@ ul.demo {
   <li> Received title of the best national thesis of year 2019 in aerospace engineering from Iranian society of aerospace (2019).</li>
 </ul>
 <ul class="demo" align="justify">
-   Received the highest “Scientific Contribution Incentive Award” from K. N. Toosi University of Technology (2018).
-<ul>
-    <li align="justify"> The award is offered to students based on their publication's quality.</li>
-  </ul>
+   <li>Received the highest “Scientific Contribution Incentive Award” from K. N. Toosi University of Technology (2018).<br>
+    &#x2022; The award is offered to students based on their publication's quality.</li>
   </ul>
  <ul class="demo" align="justify">
-  Iran government higher education bursary during BSc and MSc degrees (2010 to 2018).
- <ul>
-    <li align="justify"> The award is offered to students based on their performance in the nationwide university entrance exam.</li>
-  </ul>
+  <li>Iran government higher education bursary during BSc and MSc degrees (2010 to 2018).<br>
+    &#x2022; The award is offered to students based on their performance in the nationwide university entrance exam.</li>
   </ul>
   <ul class="demo" align="justify">
  <li> A member of Iran's “National Elites Foundation” (2020 utill now).</li>
 </ul>
 <ul class="demo" align="justify">
-  Recognized as a talented student and awarded membership to the NODET (National Organization for Development of Exceptional Talents) for middle and high school (2003 to 2010).
-<ul>
-    <li align="justify"> The award is offered to few elementary students based on their performance in the NODET's specific talent recognition exam. </li>
-  </ul>
+  <li>Recognized as a talented student and awarded membership to the NODET (National Organization for Development of Exceptional Talents) for middle and high school (2003 to 2010).<br>
+    &#x2022; The award is offered to few elementary students based on their performance in the NODET's specific talent recognition exam. </li>
   </ul>
   <ul class="demo" align="justify">
   <li> Receiving the certificate of appreciation for attending as executive team at the 16th international conference of Iranian aerospace society, Tehran, Iran (2017).</li>
