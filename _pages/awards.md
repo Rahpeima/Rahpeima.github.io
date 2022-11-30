@@ -4,8 +4,20 @@ title: "Honors & Awards"
 permalink: /awards/
 author_profile: true
 ---
+
+<head>
+<style>
+ul.demo {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+</style>
+</head>
+
+<body>
 <p></p>
-<ul align="justify">
+<ul class="demo"; align="justify">
   <i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i> Received Taiwan's gold card in the field of science & technology (2021).
   <ul>
   <li> Permission of 3 years residency in Taiwan with several benefits.</li>
@@ -50,3 +62,5 @@ author_profile: true
   <ul align="justify">
   <i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i> Receiving the certificate of appreciation for attending as executive team at the 16th international conference of Iranian aerospace society, Tehran, Iran (2017).
 </ul>
+
+  </body>
