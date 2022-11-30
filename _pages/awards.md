@@ -9,7 +9,7 @@ author_profile: true
 <style>
 ul.demo {
   list-style-type: none;
-  list-style-image: url("https://user-images.githubusercontent.com/117890455/204693429-099f2203-22d6-4b8a-825d-3de6751e03d3.png");
+  list-style-image: url("https://user-images.githubusercontent.com/117890455/204694579-9e4745c9-ee1c-4787-b811-3517fdd9193e.png");
   margin: 0;
   padding: 0;
 }
