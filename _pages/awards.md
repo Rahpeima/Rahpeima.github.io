@@ -9,7 +9,7 @@ author_profile: true
 <style>
 ul.demo {
   list-style-type: none;
-  list-style-image: url("starsolid.gif");
+  list-style-image: url("https://user-images.githubusercontent.com/117890455/204691229-b6adc55a-cdb7-4a21-892f-004f94a97d07.png");
   margin: 0;
   padding: 0;
 }
