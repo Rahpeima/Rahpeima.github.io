@@ -19,9 +19,9 @@ ul.demo {
 <body>
 <p></p>
 <ul class="demo" align="justify">
-  <li>Received Taiwan's gold card in the field of science & technology (2021).</li>
-  <ul>&#x2022; Permission of 3 years residency in Taiwan with several benefits.
-</ul>
+  <li>Received Taiwan's gold card in the field of science & technology (2021).<br>
+  &#x2022; Permission of 3 years residency in Taiwan with several benefits.
+</li>
 </ul>
 <ul class="demo" align="justify">
   Awarded a full scholarship by National Taiwan University for pursuing a Master’s degree (2022).
