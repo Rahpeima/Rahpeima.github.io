@@ -11,7 +11,7 @@ ul.demo {
   list-style-type: none;
   list-style-image: url("https://user-images.githubusercontent.com/117890455/204694579-9e4745c9-ee1c-4787-b811-3517fdd9193e.png");
   
-  margin: 0;
+  
 }
 </style>
 </head>
@@ -22,12 +22,10 @@ ul.demo {
   <li>Received Taiwan's gold card in the field of science & technology (2021).<br>
   &#x2022; Permission of 3 years residency in Taiwan with several benefits.
 </li>
-</ul>
-<ul class="demo" align="justify">
+
   <li>Awarded a full scholarship by National Taiwan University for pursuing a Master’s degree (2022).<br>
         &#x2022; The highest award offered to NTU international students.</li>
-</ul>  
-<ul class="demo" align="justify">
+
   <li> Recognized as an elite student and permitted to use exceptional talents quota to continue education to Ph.D. at KNTU without participating in the nationwide university entrance exam (2018).</li>
 </ul>         
 <ul class="demo" align="justify">
