@@ -19,19 +19,19 @@ ul.demo {
 <body>
 <p></p>
 <ul class="demo" align="justify">
-  <i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i> Received Taiwan's gold card in the field of science & technology (2021).
+  <li><i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i> Received Taiwan's gold card in the field of science & technology (2021).</li>
   <ul>
   <li> Permission of 3 years residency in Taiwan with several benefits.</li>
   </ul>
 </ul>
 <ul class="demo" align="justify">
-  <i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i> Awarded a full scholarship by National Taiwan University for pursuing a Master’s degree (2022).
+  <li><i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i> Awarded a full scholarship by National Taiwan University for pursuing a Master’s degree (2022).</li>
 <ul>
         <li align="justify"> The highest award offered to NTU international students.</li>
 </ul>
 </ul>  
 <ul class="demo" align="justify">
-  <i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i> Recognized as an elite student and permitted to use exceptional talents quota to continue education to Ph.D. at KNTU without participating in the nationwide university entrance exam (2018).
+  <li><i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i> Recognized as an elite student and permitted to use exceptional talents quota to continue education to Ph.D. at KNTU without participating in the nationwide university entrance exam (2018).</li>
 </ul>         
 <ul class="demo" align="justify">
   <i class="fas fa-medal" style="color:#FFD700;font-size:20px"></i> Ranked 1st in cumulative GPA among students of Propulsion Department, Class of 2015, K. N. Toosi University of Technology (2018).
