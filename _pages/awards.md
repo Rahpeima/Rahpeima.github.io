@@ -10,7 +10,7 @@ author_profile: true
 ul.demo {
   list-style-type: none;
   list-style-image: url("https://user-images.githubusercontent.com/117890455/204694579-9e4745c9-ee1c-4787-b811-3517fdd9193e.png");
-  
+  padding: 0;
   
 }
 </style>
