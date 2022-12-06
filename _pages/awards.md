@@ -43,7 +43,7 @@ ul.demo {
   <li>Recognized as a talented student and awarded membership to the NODET (National Organization for Development of Exceptional Talents) for middle and high school (2003 to 2010).<br>
     &#x2022; The award is offered to few elementary students based on their performance in the NODET's specific talent recognition exam. </li>
   
-  <li> Receiving the certificate of appreciation for attending as executive team at the 16th international conference of Iranian aerospace society, Tehran, Iran (2017).</li>
+  <li> Received the certificate of appreciation for attending as executive team at the 16th international conference of Iranian aerospace society, Tehran, Iran (2017).</li>
 </ul>
 
   </body>
