@@ -30,7 +30,7 @@ author_profile: true
  </script>
  
  <p align="center">
-  <img width="464" height="500" src="https://user-images.githubusercontent.com/117890455/260467263-7abab462-38a2-41d4-b8c1-d1569c4976d1.png">
+  <img width="550" height="593" src="https://user-images.githubusercontent.com/117890455/260467263-7abab462-38a2-41d4-b8c1-d1569c4976d1.png">
 </p>
 
 
