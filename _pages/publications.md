@@ -7,6 +7,49 @@ author_profile: true
 
 <ul style="list-style-type:circle;"></ul>
 
+<h1 class="year">2023</h1> 
+
+ <ul>
+     <li><a href="https://www.tandfonline.com/doi/abs/10.1080/15376494.2023.2235357" style="color: #B509AC; text-decoration:none;" target="\_blank">An experimental and numerical approach for optimization of internal and external corrugations with various geometries in cylindrical thin-walled concertina energy absorbers under quasi-static axial load </a>
+<br><strong>Reza Rahpeima</strong>, Iman Nateghi Boroujeni, and Ali Alavi Nia,<br><em>Taylor & Francis, 2023, doi:10.1080/15376494.2023.2235357.</em></li>
+
+
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.tandfonline.com/eprint/IWWAU2R7UEHF4IBW9CQT/full?target=10.1080/15376494.2023.2235357" style="color: blue; text-decoration:none;" target="\_blank">Plos</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/files/9996687/journal.pone.0274801.1.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction()" id="myBtn">Show Abstract</button></p>
+ 
+<style>
+#more {display: none;}
+</style> 
+ 
+<span id="dots"></span><span id="more">
+ 
+ <p align="center">
+  <img width="603" height="526" src="https://user-images.githubusercontent.com/117890455/201510899-8b91c432-c60c-4569-9f97-f878e617ee70.png">
+</p>
+
+
+<p align="justify"><b>Abstract:</b> Thin-walled tubes have been extensively used as energy absorbers in many engineering structures that are under dynamic or quasi-static loads. In this article, the effect of corrugation and its geometry on the collapse characteristics of aluminum concertina tubes under quasi-static axial load is investigated both experimentally and numerically. The numerical simulations were performed with the use of LS-Dyna commercial software. Then, several chosen samples were tested experimentally to verify the results of the simulation. Forty different samples with four different corrugation geometries including singly isosceles triangular corrugation, continual isosceles triangular corrugation, continual scalene triangular corrugation, and continual semi-circular corrugation, and each with 10 different size dimensions were simulated. Among all of these simulations, six of them, each with two replicates were subjected to experimental tests. Experimental examples are aluminum cylindrical thin-walled tubes with the same thickness, height, and diameter that corrugations with different geometries are applied to them by the use of the cold rolling method. Finally, to describe the findings in more theoretical terms, a comparison between our obtained results and earlier theoretical investigations is made. The results show a significant influence of corrugations application on the improvement of the collapse characteristics of the cylindrical tubes so that the collapse style of intact tubes can be controlled by applying corrugations. The results show that by increasing the amplitude and number of corrugations, the absorbed energy, and the initial maximum force decrease. It is also found that among the different corrugation geometries, the corrugations with singly isosceles triangular geometry have the highest energy absorption as well as the lowest initial maximum force.</p></span></ul>
+
+
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Show Abstarct"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Hide Abstarct"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
+
+
 <h1 class="year">2022</h1> 
 
  <ul>
