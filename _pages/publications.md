@@ -14,7 +14,7 @@ author_profile: true
 <br><strong>Reza Rahpeima</strong>, Iman Nateghi Boroujeni, and Ali Alavi Nia,<br><em>Taylor & Francis, 2023, doi:10.1080/15376494.2023.2235357.</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.tandfonline.com/eprint/IWWAU2R7UEHF4IBW9CQT/full?target=10.1080/15376494.2023.2235357" style="color: blue; text-decoration:none;" target="\_blank">Taylor & Francis</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/Rahpeima.github.io/blob/abbad749eb72c307b8975e73a90bb315a4979b62/images/An%20experimental%20and%20numerical%20approach%20for%20optimization%20of%20internal%20and%20external%20corrugations%20with%20various%20geometries%20in%20cylindrical%20thin%20walled.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction()" id="myBtn">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://www.tandfonline.com/eprint/IWWAU2R7UEHF4IBW9CQT/full?target=10.1080/15376494.2023.2235357" style="color: blue; text-decoration:none;" target="\_blank">Taylor & Francis</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/Rahpeima.github.io/blob/abbad749eb72c307b8975e73a90bb315a4979b62/images/An%20experimental%20and%20numerical%20approach%20for%20optimization%20of%20internal%20and%20external%20corrugations%20with%20various%20geometries%20in%20cylindrical%20thin%20walled.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction()" id="myBtn0">Show Abstract</button></p>
  
 <style>
 #more {display: none;}
