@@ -30,7 +30,7 @@ author_profile: true
  </script>
  
  <p align="center">
-  <img width="780" height="526" src="https://github.com/Rahpeima/Rahpeima.github.io/blob/b6c34975a76bd22b60c1107920d07a5b108cef57/images/dfdf.png">
+  <img width="780" height="526" src="https://github.com/Rahpeima/required/assets/117890455/0fed7c70-8f62-4d7b-b2c5-6a4b3eb51fef.png">
 </p>
 
 
