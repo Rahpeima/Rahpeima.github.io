@@ -20,10 +20,17 @@ author_profile: true
 #more {display: none;}
 </style> 
  
-<span id="dots"></span><span id="more">
+<span id="dots0"></span><span id="more0">
+ 
+ <script>
+  if (document.getElementById("dots0").style.display != "none"){
+  document.getElementById("dots0").style.display = "inline";
+  document.getElementById("more0").style.display = "none";
+  }
+ </script>
  
  <p align="center">
-  <img width="780" height="526" src="https://github.com/Rahpeima/Rahpeima.github.io/blob/dcece6e191cc8f38650afa97e113913f490529cf/images/dfdf.jpeg">
+  <img width="780" height="526" src="https://github.com/Rahpeima/Rahpeima.github.io/blob/b6c34975a76bd22b60c1107920d07a5b108cef57/images/dfdf.png">
 </p>
 
 
@@ -31,10 +38,10 @@ author_profile: true
 
 
 <script>
-function myFunction() {
-  var dots = document.getElementById("dots");
-  var moreText = document.getElementById("more");
-  var btnText = document.getElementById("myBtn");
+function myFunction0() {
+  var dots = document.getElementById("dots0");
+  var moreText = document.getElementById("more0");
+  var btnText = document.getElementById("myBtn0");
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
@@ -62,7 +69,7 @@ function myFunction() {
 <style>
 #more {display: none;}
 </style> 
- 
+
 <span id="dots"></span><span id="more">
  
  <p align="center">
