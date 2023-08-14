@@ -23,7 +23,7 @@ author_profile: true
 <span id="dots"></span><span id="more">
  
  <p align="center">
-  <img width="750" height="526" src="https://github.com/Rahpeima/Rahpeima.github.io/blob/dcece6e191cc8f38650afa97e113913f490529cf/images/dfdf.jpeg">
+  <img width="780" height="526" src="https://github.com/Rahpeima/Rahpeima.github.io/blob/dcece6e191cc8f38650afa97e113913f490529cf/images/dfdf.jpeg">
 </p>
 
 
