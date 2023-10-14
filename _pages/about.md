@@ -33,7 +33,7 @@ My research interests lie primarily in photoacoustic/thermoacoustic imaging, aco
 .divScroll {
 Overflow-y:scroll;;
 height:200px;
-width:1000px;
+width:800px;
 }
 </style>
 <body>
