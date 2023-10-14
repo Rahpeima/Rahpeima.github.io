@@ -30,7 +30,7 @@ author_profile: true
  </script>
  
  <p align="center">
-  <img width="510" height="440" src="https://github.com/Rahpeima/required/assets/117890455/e0f098eb-eb72-4fea-a281-2b59d90d63df">
+  <img width="464" height="400" src="https://github.com/Rahpeima/required/assets/117890455/e0f098eb-eb72-4fea-a281-2b59d90d63df">
 </p>
 
 <p align="justify"><b>Abstract:</b> A comprehensive 3D numerical platform is presented for simulating photoacoustic imaging (PAI) on a realistic breast phantom. All Physics are simulated using FEM for close-to-reality results. It is concluded utilizing a 660 nm conical ray (20° cone angle) generates 3E+4 N/m^2 pressure at the tumor, causing ±400 kPa acoustic wave pressure. Tumor imaging is reconstructed as well. This platform serves as a highly accurate tool for PAI simulation.</p></span></ul>
