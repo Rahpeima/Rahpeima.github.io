@@ -35,12 +35,12 @@ My research interests lie primarily in photoacoustic/thermoacoustic imaging, aco
 .divScroll {
 Overflow-y:scroll;;
 height:200px;
+width:400px;
 }
 </style>
 </head>
 <body>
 <div class="divScroll">
-
 <ul>
          <li align="justify"><b>September 2023:</b> I presented my conference paper at the <b>2023 IEEE International Ultrasonics Symposium</b> in Montreal, Canada. </li>
          <li align="justify"><b>August 2023:</b> I have been accepted into the exchange program at the <b>National University of Singapore</b> and awarded the "NTU Voyage of Aspirations" scholarship to cover my expenses throughout my time there. </li>
@@ -48,11 +48,9 @@ height:200px;
           <li align="justify"><b>October 2022:</b> I started my work in <a href="https://www.shl-medical.com/" style="color: #B509AC; text-decoration:none;" target="\_blank">SHL Medical</a> as a "simulation engineer" intern. </li>
                <li align="justify"><b>September 2022:</b> My research paper, "Numerical study of magnetic hyperthermia ablation of breast tumor on an anatomically realistic breast phantom", is published in the <b>Plos One</b> journal. </li>     
            <li align="justify"><b>September 2022:</b> I started my M.Sc. degree in "Biomedical Electronics & Bioinformatics" at <a href="https://www.ntu.edu.tw/english/index.html" style="color: #B509AC; text-decoration:none;" target="\_blank">National Taiwan University (NTU)</a>.</li>
- <li align="justify"><b>July 2022:</b> I started my work as a research assistant at <a href="https://sites.google.com/view/pai-chilislab/home" style="color: #B509AC; text-decoration:none;" target="\_blank">Ultrasonic Imaging Lebaretory</a> of <a href="https://www.ntu.edu.tw/english/index.html" style="color: #B509AC; text-decoration:none;" target="\_blank">National Taiwan University (NTU)</a>.</li>
-          
+ <li align="justify"><b>July 2022:</b> I started my work as a research assistant at <a href="https://sites.google.com/view/pai-chilislab/home" style="color: #B509AC; text-decoration:none;" target="\_blank">Ultrasonic Imaging Lebaretory</a> of <a href="https://www.ntu.edu.tw/english/index.html" style="color: #B509AC; text-decoration:none;" target="\_blank">National Taiwan University (NTU)</a>.</li>     
 <hr/>
 </ul>
-
 </div>
 </body>
 </html>    
