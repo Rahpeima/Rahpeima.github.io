@@ -23,10 +23,26 @@ My research interests lie primarily in photoacoustic/thermoacoustic imaging, aco
 <p align="center">
   <img width="512" height="512" src="https://user-images.githubusercontent.com/117890455/201822025-45beb034-60fc-4328-97e9-2d41323d0580.gif">
 </p>
- 
+
+
 <div class="News">
 <h2>News</h2>
-        <ul>
+
+<html>
+<head>
+<title></title>
+<style>
+.divScroll {
+overflow:scroll;
+height:100px;
+width:200px;
+}
+</style>
+</head>
+<body>
+<div class="divScroll">
+
+<ul>
          <li align="justify"><b>September 2023:</b> I presented my conference paper at the <b>2023 IEEE International Ultrasonics Symposium</b> in Montreal, Canada. </li>
          <li align="justify"><b>August 2023:</b> I have been accepted into the exchange program at the <b>National University of Singapore</b> and awarded the "NTU Voyage of Aspirations" scholarship to cover my expenses throughout my time there. </li>
           <li align="justify"><b>July 2023:</b> My research paper, "An experimental and numerical approach for optimization of internal and external corrugations with various geometries in cylindrical thin-walled concertina energy absorbers under quasi-static axial load", is published in the <b>Mechanics of Advanced Materials and Structures</b> journal. </li>
@@ -37,6 +53,10 @@ My research interests lie primarily in photoacoustic/thermoacoustic imaging, aco
           
 <hr/>
 </ul>
+
+</div>
+</body>
+</html>    
 </div>
     
  
