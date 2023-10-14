@@ -26,7 +26,7 @@ My research interests lie primarily in photoacoustic/thermoacoustic imaging, aco
 
 
 <div class="News">
-<h2>News</h2>
+<h2></h2>
 <ul>
          <li align="justify"><b>September 2023:</b> I presented my conference paper at the <b>2023 IEEE International Ultrasonics Symposium</b> in Montreal, Canada. </li>
          <li align="justify"><b>August 2023:</b> I have been accepted into the exchange program at the <b>National University of Singapore</b> and awarded the "NTU Voyage of Aspirations" scholarship to cover my expenses throughout my time there. </li>
@@ -36,7 +36,7 @@ My research interests lie primarily in photoacoustic/thermoacoustic imaging, aco
 <hr/>
 </ul>
 </div>
-
+<h2>News</h2>
  
 <p align="center">
   <img width="490" height="90" src="https://user-images.githubusercontent.com/117890455/201846424-2a633c61-7592-4523-8108-2bb5ff633ac9.jpg">
