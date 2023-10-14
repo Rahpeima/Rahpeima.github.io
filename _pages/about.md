@@ -36,8 +36,9 @@ My research interests lie primarily in photoacoustic/thermoacoustic imaging, aco
 </ul>
 </div>
 
-<br> <br>
+
 <p align="center">
+ <br>
   <img width="490" height="90" src="https://user-images.githubusercontent.com/117890455/201846424-2a633c61-7592-4523-8108-2bb5ff633ac9.jpg">
 </p>
 
