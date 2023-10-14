@@ -10,6 +10,50 @@ author_profile: true
 <h1 class="year">2023</h1> 
 
  <ul>
+     <li>A Comprehensive FEA Platform for Realistic Simulations of Photoacoustic Breast Imaging</a>
+<br><strong>Reza Rahpeima</strong> and Pai-Chi Li,<br><em>2023 IEEE International Ultrasonics Symposium, Montreal, Canada</em></li>
+
+
+<p><i class="fas fa-file-pdf" style="color:red"></i> <a href="1st.pdf](https://github.com/Rahpeima/required/files/12903119/1st.pdf" style="color: red; text-decoration:none;" target="\_blank">Abstract PDF</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/assets/117890455/e0b20a03-0435-4da1-aa43-264a2e4c6b34" style="color: red; text-decoration:none;" target="\_blank">Presentation Video</a> | <button onclick="myFunction00()" id="myBtn00">Show Poster</button></p>
+ 
+<style>
+#more {display: none;}
+</style> 
+ 
+<span id="dots00"></span><span id="more00">
+ 
+ <script>
+  if (document.getElementById("dots00").style.display != "none"){
+  document.getElementById("dots00").style.display = "inline";
+  document.getElementById("more00").style.display = "none";
+  }
+ </script>
+ 
+ <p align="center">
+  <img width="525" height="566" src="https://github.com/Rahpeima/required/assets/117890455/fceae7bd-44fb-4476-8953-dd3057518fc8">
+</p>
+
+
+<script>
+function myFunction00() {
+  var dots = document.getElementById("dots00");
+  var moreText = document.getElementById("more00");
+  var btnText = document.getElementById("myBtn00");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Show Abstarct"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Hide Abstarct"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
+
+ <ul>
      <li><a href="https://www.tandfonline.com/doi/abs/10.1080/15376494.2023.2235357" style="color: #B509AC; text-decoration:none;" target="\_blank">An experimental and numerical approach for optimization of internal and external corrugations with various geometries in cylindrical thin-walled concertina energy absorbers under quasi-static axial load </a>
 <br><strong>Reza Rahpeima</strong>, Iman Nateghi Boroujeni, and Ali Alavi Nia,<br><em>Taylor & Francis, 2023, doi:10.1080/15376494.2023.2235357.</em></li>
 
