@@ -34,7 +34,7 @@ My research interests lie primarily in photoacoustic/thermoacoustic imaging, aco
 <style>
 .divScroll {
 Overflow-y:scroll;;
-height:100px;
+height:200px;
 }
 </style>
 </head>
@@ -57,7 +57,7 @@ height:100px;
 </body>
 </html>    
 </div>
-    
+<br> <br>   
  
 <p align="center">
   <img width="490" height="90" src="https://user-images.githubusercontent.com/117890455/201846424-2a633c61-7592-4523-8108-2bb5ff633ac9.jpg">
