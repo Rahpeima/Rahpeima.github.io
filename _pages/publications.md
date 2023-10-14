@@ -10,11 +10,11 @@ author_profile: true
 <h1 class="year">2023</h1> 
 
  <ul>
-     <li>A Comprehensive FEA Platform for Realistic Simulations of Photoacoustic Breast Imaging</a>
+     <li><a style="color: #B509AC; text-decoration:none;" target="\_blank">A Comprehensive FEA Platform for Realistic Simulations of Photoacoustic Breast Imaging</a>
 <br><strong>Reza Rahpeima</strong> and Pai-Chi Li,<br><em>2023 IEEE International Ultrasonics Symposium, Montreal, Canada</em></li>
 
 
-<p><i class="fas fa-file-pdf" style="color:red"></i> <a href="1st.pdf](https://github.com/Rahpeima/required/files/12903119/1st.pdf" style="color: red; text-decoration:none;" target="\_blank">Abstract PDF</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/assets/117890455/e0b20a03-0435-4da1-aa43-264a2e4c6b34" style="color: red; text-decoration:none;" target="\_blank">Presentation Video</a> | <button onclick="myFunction00()" id="myBtn00">Show Poster</button></p>
+<p><i class="fas fa-file-pdf" style="color:blue"></i> <a href="https://github.com/Rahpeima/required/files/12903119/1st.pdf" style="color: blue; text-decoration:none;" target="\_blank">Abstract PDF</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/Rahpeima/required/assets/117890455/e0b20a03-0435-4da1-aa43-264a2e4c6b34" style="color: red; text-decoration:none;" target="\_blank">Presentation Video</a> | <i class="fas fa-file-pdf" style="color:green"></i> <a href="https://github.com/Rahpeima/required/assets/117890455/181050fd-0436-4ee4-a398-a18e8a647c10" style="color: green; text-decoration:none;" target="\_blank">Poster</a> | <button onclick="myFunction00()" id="myBtn00">Show Abstract</button></p>
  
 <style>
 #more {display: none;}
@@ -30,8 +30,10 @@ author_profile: true
  </script>
  
  <p align="center">
-  <img width="1213" height="600" src="https://github.com/Rahpeima/required/assets/117890455/fceae7bd-44fb-4476-8953-dd3057518fc8">
-</p></span></ul>
+  <img width="463" height="400" src="https://github.com/Rahpeima/required/assets/117890455/e0f098eb-eb72-4fea-a281-2b59d90d63df">
+</p>
+
+<p align="justify"><b>Abstract:</b> A comprehensive 3D numerical platform is presented for simulating photoacoustic imaging (PAI) on a realistic breast phantom. All Physics are simulated using FEM for close-to-reality results. It is concluded utilizing a 660 nm conical ray (20° cone angle) generates 3E+4 N/m^2 pressure at the tumor, causing ±400 kPa acoustic wave pressure. Tumor imaging is reconstructed as well. This platform serves as a highly accurate tool for PAI simulation.</p></span></ul>
 
 
 <script>
