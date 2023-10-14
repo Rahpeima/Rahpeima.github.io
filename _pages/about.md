@@ -33,8 +33,9 @@ My research interests lie primarily in photoacoustic/thermoacoustic imaging, aco
           <li align="justify"><b>July 2023:</b> My research paper, "An experimental and numerical approach for optimization of internal and external corrugations with various geometries in cylindrical thin-walled concertina energy absorbers under quasi-static axial load", is published in the <b>Mechanics of Advanced Materials and Structures</b> journal. </li>
           <li align="justify"><b>October 2022:</b> I started my work in <a href="https://www.shl-medical.com/" style="color: #B509AC; text-decoration:none;" target="\_blank">SHL Medical</a> as a "simulation engineer" intern. </li>
                <li align="justify"><b>September 2022:</b> My research paper, "Numerical study of magnetic hyperthermia ablation of breast tumor on an anatomically realistic breast phantom", is published in the <b>Plos One</b> journal. </li>          
-</div>
 </ul>
+</div>
+</hr>
  
 <p align="center">
   <img width="490" height="90" src="https://user-images.githubusercontent.com/117890455/201846424-2a633c61-7592-4523-8108-2bb5ff633ac9.jpg">
