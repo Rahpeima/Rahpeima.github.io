@@ -20,6 +20,10 @@ ul.demo {
 <p></p>
 <ul class="demo" align="justify">
   
+ <li>Awarded Taiwan’s National Science and Technology Council (NSTC) Graduate Research Fellowship (2023).<br>
+  &#x2022; The award is for outstanding research conducted during my Master's program.
+  </li>
+ 
  <li>Accepted into the exchange program at the "National University of Singapore" and granted the “NTU Voyage of Aspirations” scholarship to cover my expenses throughout my time there (2023).<br>
   &#x2022; The award is offered to few students based on their academic achievements.
   </li>
