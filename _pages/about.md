@@ -17,7 +17,7 @@ redirect_from:
 <p align="justify"> Hello and thanks for stopping by! <br> <br>
 My name is Reza Rahpeima. I am currently a master's student in the Institute of Biomedical Electronics and Bioinformatics (BEBI) of the College of Electrical Engineering and Computer Science at the <a href="https://www.ntu.edu.tw/english/index.html" target="\_blank" style="color: #B509AC; text-decoration:none">  National Taiwan University (NTU)</a>. I am doing research in the Ultrasonic Imaging Lebaretory under the supervision of <a href="https://sites.google.com/view/pai-chilislab/home" target="\_blank" style="color: #B509AC; text-decoration:none">  Prof. Pai-Chi Li</a>. <br> <br>
 I recieved my bachelor's degree in mechanical engineering from <a href="https://basu.ac.ir/en/home" target="\_blank" style="color: #B509AC; text-decoration:none">  Bu-Ali Sina University</a> and my master's degree in aerospace engineering from <a href="https://en.kntu.ac.ir/" target="\_blank" style="color: #B509AC; text-decoration:none">  K. N. Toosi University of science and technology</a>.
-My research interests primarily focus on acoustics and ultrasounds, photoacoustic and thermoacoustic imaging, and numerical simulation and coding across various fields of biomedical imaging and engineering. My interests and directions spread over as follows: <br> <br>
+My research interests primarily focus on acoustics and ultrasounds, photoacoustic and thermoacoustic imaging, and numerical simulation and coding across various fields of biomedical engineering. My interests and directions spread over as follows: <br> <br>
 
 
 <p align="center">
