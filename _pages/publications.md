@@ -9,7 +9,54 @@ author_profile: true
 
 <h1 class="year">2023</h1> 
 
+
  <ul>
+     <li><a style="color: #B509AC; text-decoration:none;" target="\_blank">A comprehensive numerical procedure for high-intensity focused ultrasound ablation of breast tumour on an anatomically realistic breast phantom</a>
+<br><strong>Reza Rahpeima</strong> and Chao-An Lin,<br><em>Plos One, 2024, doi:10.1371/journal.pone.0310899</em></li>
+
+
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310899" style="color: blue; text-decoration:none;" target="\_blank">Plos</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/user-attachments/files/17244992/journal.pone.0310899.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction0()" id="myBtn0">Show Abstract</button></p>
+ 
+<style>
+#more {display: none;}
+</style> 
+ 
+<span id="dots00"></span><span id="more00">
+ 
+ <script>
+  if (document.getElementById("dots00").style.display != "none"){
+  document.getElementById("dots00").style.display = "inline";
+  document.getElementById("more00").style.display = "none";
+  }
+ </script>
+ 
+ <p align="center">
+  <img width="464" height="400" src="https://github.com/user-attachments/assets/d7ee624f-b8b4-46b2-9337-867d5cd3f154">
+</p>
+
+<p align="justify"><b>Abstract:</b> High-Intensity Focused Ultrasound (HIFU) as a promising and impactful modality for breast tumor ablation, entails the precise focalization of high-intensity ultrasonic waves onto the tumor site, culminating in the generation of extreme heat, thus ablation of malignant tissues. In this paper, a comprehensive three-dimensional (3D) Finite Element Method (FEM)-based numerical procedure is introduced, which provides exceptional capacity for simulating the intricate multiphysics phenomena associated with HIFU. Furthermore, the application of numerical procedures to an anatomically realistic breast phantom (ARBP) has not been explored before. The integrity of the present numerical procedure has been established through rigorous validation, incorporating comparative assessments with previous two-dimensional (2D) simulations and empirical data. For ARBP ablation, the administration of a 0.1 MPa pressure input pulse at a frequency of 1.5 MHz, sustained at the focal point for 10 seconds, manifests an ensuing temperature elevation to 80°C. It is noteworthy that, in contrast, the prior 2D simulation using a 2D phantom geometry reached just 72°C temperature under the identical treatment regimen, underscoring the insufficiency of 2D models, ascribed to their inherent limitations in spatially representing acoustic energy, which compromises their overall effectiveness. To underscore the versatility of this numerical platform, a simulation of a more clinically relevant HIFU therapy procedure has been conducted. This scenario involves the repositioning of the ultrasound focal point to three separate lesions, each spaced at 3 mm intervals, with ultrasound exposure durations of 6 seconds each and a 5-second interval for movement between focal points. This approach resulted in a more uniform high-temperature distribution at different areas of the tumour, leading to the ablation of almost all parts of the tumour, including its verges. In the end, the effects of different abnormal tissue shapes are investigated briefly as well. For solid mass tumors, 67.67% was successfully ablated with one lesion, while rim-enhancing tumors showed only 34.48% ablation and non-mass enhancement tumors exhibited 20.32% ablation, underscoring the need for multiple lesions and tailored treatment plans for more complex cases.</p></span></ul>
+
+
+<script>
+function myFunction00() {
+  var dots = document.getElementById("dots00");
+  var moreText = document.getElementById("more00");
+  var btnText = document.getElementById("myBtn00");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Show Abstarct"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Hide Abstarct"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
+
+<ul>
      <li><a style="color: #B509AC; text-decoration:none;" target="\_blank">A Comprehensive FEA Platform for Realistic Simulations of Photoacoustic Breast Imaging</a>
 <br><strong>Reza Rahpeima</strong> and Pai-Chi Li,<br><em>2023 IEEE International Ultrasonics Symposium, Montreal, Canada</em></li>
 
