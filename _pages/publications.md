@@ -7,7 +7,7 @@ author_profile: true
 
 <ul style="list-style-type:circle;"></ul>
 
-<h1 class="year">2023</h1> 
+<h1 class="year">2024</h1> 
 
 
  <ul>
@@ -15,18 +15,18 @@ author_profile: true
 <br><strong>Reza Rahpeima</strong> and Chao-An Lin,<br><em>Plos One, 2024, doi:10.1371/journal.pone.0310899</em></li>
 
 
-<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310899" style="color: blue; text-decoration:none;" target="\_blank">Plos</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/user-attachments/files/17244992/journal.pone.0310899.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction0()" id="myBtn0">Show Abstract</button></p>
+<p><i class="fas fa-globe" style="color:Blue"></i> <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310899" style="color: blue; text-decoration:none;" target="\_blank">Plos</a> | <i class="fas fa-file-pdf" style="color:red"></i> <a href="https://github.com/user-attachments/files/17244992/journal.pone.0310899.pdf" style="color: red; text-decoration:none;" target="\_blank">PDF</a> | <button onclick="myFunction000()" id="myBtn000">Show Abstract</button></p>
  
 <style>
 #more {display: none;}
 </style> 
  
-<span id="dots00"></span><span id="more00">
+<span id="dots000"></span><span id="more000">
  
  <script>
-  if (document.getElementById("dots00").style.display != "none"){
-  document.getElementById("dots00").style.display = "inline";
-  document.getElementById("more00").style.display = "none";
+  if (document.getElementById("dots000").style.display != "none"){
+  document.getElementById("dots000").style.display = "inline";
+  document.getElementById("more000").style.display = "none";
   }
  </script>
  
@@ -38,10 +38,10 @@ author_profile: true
 
 
 <script>
-function myFunction00() {
-  var dots = document.getElementById("dots00");
-  var moreText = document.getElementById("more00");
-  var btnText = document.getElementById("myBtn00");
+function myFunction000() {
+  var dots = document.getElementById("dots000");
+  var moreText = document.getElementById("more000");
+  var btnText = document.getElementById("myBtn000");
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
@@ -55,6 +55,8 @@ function myFunction00() {
 }
 </script>
 
+
+<h1 class="year">2023</h1> 
 
 <ul>
      <li><a style="color: #B509AC; text-decoration:none;" target="\_blank">A Comprehensive FEA Platform for Realistic Simulations of Photoacoustic Breast Imaging</a>
