@@ -21,14 +21,14 @@ ul.demo {
 <ul class="demo" align="justify">
   
  <li>Awarded Taiwan’s National Science and Technology Council (NSTC) Graduate Research Fellowship (2023).<br>
-  &#x2022; The award is for outstanding research conducted during my Master's program.
+  &#x2022; The award is for outstanding research conducted during my PhD program.
   </li>
  
  <li>Accepted into the exchange program at the "National University of Singapore" and granted the “NTU Voyage of Aspirations” scholarship to cover my expenses throughout my time there (2023).<br>
   &#x2022; The award is offered to few students based on their academic achievements.
   </li>
 
-  <li>Awarded National Taiwan University Outstanding International Graduate Student Scholarship for pursuing my master’s degree (2022).<br>
+  <li>Awarded National Taiwan University Outstanding International Graduate Student Scholarship for pursuing my PhD degree (2022).<br>
         &#x2022; The highest award offered to NTU international students.</li>
 
   <li>Received Taiwan's gold card in the field of science & technology (2021).<br>
