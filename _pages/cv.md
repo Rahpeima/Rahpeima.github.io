@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full resume from <a href="https://github.com/user-attachments/files/23092002/CV-Uni.pdf" target="\_blank" style="color: #B509AC; text-decoration:none">here</a>.
+You can download my full resume from <a href="https://rahpeima.github.io/files/CV_Reza%20Rahpeima.pdf" target="\_blank" style="color: #B509AC; text-decoration:none">here</a>.
